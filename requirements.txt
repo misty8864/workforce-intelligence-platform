@@ -1,0 +1,11 @@
+@"
+pandas==2.0.3
+numpy==1.24.3
+xgboost==2.0.0
+scikit-learn==1.3.0
+fastapi==0.104.1
+uvicorn==0.24.0
+streamlit==1.28.0
+joblib==1.3.2
+requests==2.31.0
+"@ | Out-File requirements.txt -Encoding UTF8
