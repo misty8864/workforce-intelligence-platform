@@ -1,0 +1,801 @@
+employee_id,name,experience_years,experience_band,role,location,skill_profile,primary_skills,join_date
+EMP00001,Allison Hill,4,Mid,Senior Software Engineer,Bengaluru,modern,SK013|SK010|SK007,2021-11-17
+EMP00002,Noah Rhodes,1,Junior,Business Analyst,Pune,modern,SK003|SK011|SK001,2024-07-10
+EMP00003,Angie Henderson,9,Senior,Senior ML Engineer,Hyderabad,modern,SK026|SK010|SK001|SK008|SK007,2016-12-15
+EMP00004,Daniel Wagner,4,Mid,Data Engineer,Mysuru,modern,SK010|SK006|SK025|SK008,2021-08-17
+EMP00005,Cristian Santos,7,Senior,Technical Lead,Mysuru,modern,SK023|SK024|SK015|SK005,2019-04-29
+EMP00006,Connie Lawrence,2,Junior,Business Analyst,Hubli,balanced,SK004|SK013|SK001,2023-11-26
+EMP00007,Abigail Shaffer,4,Mid,Senior Software Engineer,Hubli,balanced,SK009|SK014|SK015|SK005,2021-12-11
+EMP00008,Gina Moore,9,Senior,Solutions Architect,Bengaluru,balanced,SK025|SK019|SK009|SK015|SK014,2016-12-13
+EMP00009,Gabrielle Davis,3,Mid,Senior Software Engineer,Bengaluru,modern,SK016|SK006|SK005,2023-05-10
+EMP00010,Ryan Munoz,3,Mid,Data Engineer,Hyderabad,modern,SK026|SK012|SK004,2023-04-18
+EMP00011,Monica Herrera,9,Senior,Technical Lead,Hubli,balanced,SK021|SK016|SK025|SK017,2017-05-24
+EMP00012,Jamie Arnold,10,Senior,Senior ML Engineer,Mysuru,modern,SK006|SK011|SK010|SK005|SK009,2015-11-07
+EMP00013,Lisa Hensley,1,Junior,Business Analyst,Mysuru,legacy,SK023|SK014|SK015,2024-09-09
+EMP00014,Michele Williams,5,Mid,ML Engineer,Hyderabad,modern,SK007|SK004|SK020|SK008|SK009,2020-11-10
+EMP00015,Dylan Miller,2,Junior,QA Engineer,Hubli,balanced,SK020|SK006,2024-01-11
+EMP00016,Brian Ramirez,6,Mid,Systems Analyst,Noida,modern,SK022|SK015|SK010|SK019|SK014,2020-05-07
+EMP00017,Holly Wood,4,Mid,Senior Software Engineer,Noida,balanced,SK021|SK024|SK009|SK003,2021-09-10
+EMP00018,Derek Zuniga,4,Mid,Data Engineer,Mysuru,legacy,SK001|SK020|SK018,2022-01-06
+EMP00019,Lisa Jackson,7,Senior,Solutions Architect,Pune,modern,SK023|SK006|SK009|SK011|SK025,2019-04-30
+EMP00020,Carla Gray,3,Mid,Systems Analyst,Hyderabad,balanced,SK008|SK001|SK016|SK014|SK003,2022-11-08
+EMP00021,Margaret Hawkins DDS,10,Senior,Senior ML Engineer,Noida,balanced,SK014|SK012|SK015|SK016|SK003|SK010,2015-10-10
+EMP00022,Patty Perez,9,Senior,Project Manager,Bengaluru,balanced,SK017|SK014|SK003|SK022,2017-02-17
+EMP00023,Ethan Adams,5,Mid,Senior Software Engineer,Chennai,legacy,SK017|SK013|SK022,2021-01-24
+EMP00024,Tommy Walter,3,Mid,Senior Software Engineer,Pune,modern,SK011|SK006|SK023|SK003|SK002,2023-01-20
+EMP00025,Matthew Foster,5,Mid,Systems Analyst,Hubli,modern,SK011|SK015|SK009|SK004,2020-08-20
+EMP00026,Judy Baker,15,Senior,Project Manager,Noida,legacy,SK021|SK017|SK023|SK025,2011-01-22
+EMP00027,Justin Baker,4,Mid,Senior Software Engineer,Mysuru,balanced,SK003|SK005|SK024,2021-07-15
+EMP00028,Stephanie Ross,6,Mid,ML Engineer,Hubli,legacy,SK026|SK016|SK017|SK019,2020-01-09
+EMP00029,Zachary Hicks,7,Senior,Technical Lead,Chennai,modern,SK001|SK008|SK003|SK006,2019-02-06
+EMP00030,Anthony Rodriguez,8,Senior,Technical Lead,Hubli,balanced,SK014|SK017|SK007|SK016,2017-11-03
+EMP00031,Rebecca Henderson,4,Mid,Systems Analyst,Noida,legacy,SK019|SK017|SK022|SK025,2021-08-07
+EMP00032,James Ferrell,5,Mid,Systems Analyst,Hubli,legacy,SK003|SK026|SK019|SK016|SK025,2020-10-30
+EMP00033,Tricia Valencia,12,Senior,Senior ML Engineer,Mysuru,balanced,SK026|SK023|SK008|SK010,2014-01-12
+EMP00034,Nathan Maldonado,3,Mid,Senior Software Engineer,Bengaluru,balanced,SK025|SK019|SK015|SK003,2022-09-05
+EMP00035,Debra Davidson,7,Senior,Senior ML Engineer,Noida,modern,SK009|SK019|SK012|SK011|SK006|SK004,2018-10-17
+EMP00036,Jeffrey Chavez,4,Mid,Systems Analyst,Bengaluru,legacy,SK025|SK020|SK024|SK021,2022-01-29
+EMP00037,Sherri Baker,10,Senior,Senior ML Engineer,Noida,modern,SK009|SK007|SK011|SK006|SK003|SK025,2016-01-23
+EMP00038,Cassandra Gaines,6,Mid,Senior Software Engineer,Chennai,modern,SK001|SK005|SK009|SK006,2019-09-30
+EMP00039,Elizabeth Fowler,8,Senior,Project Manager,Chennai,balanced,SK022|SK006|SK011|SK019,2017-08-17
+EMP00040,Brittany Farmer,2,Junior,Business Analyst,Noida,balanced,SK009|SK021|SK008,2024-03-19
+EMP00041,Paula Moreno,8,Senior,Project Manager,Hyderabad,modern,SK024|SK016|SK011|SK007|SK003,2018-06-20
+EMP00042,Fred Smith,4,Mid,Systems Analyst,Pune,modern,SK003|SK022|SK010|SK009,2021-12-10
+EMP00043,Sherry Decker,5,Mid,Data Engineer,Mysuru,balanced,SK002|SK015|SK005|SK004,2020-09-08
+EMP00044,Anthony Humphrey,1,Junior,QA Engineer,Mysuru,modern,SK005|SK025,2024-11-27
+EMP00045,Angelica Tucker,1,Junior,Business Analyst,Mysuru,balanced,SK013|SK005|SK012,2025-05-27
+EMP00046,Philip Cannon,1,Junior,Software Engineer,Hubli,balanced,SK002|SK010|SK017,2025-03-15
+EMP00047,John Pierce,10,Senior,Senior ML Engineer,Hubli,balanced,SK017|SK025|SK023|SK015,2015-07-17
+EMP00048,Shane Henderson,6,Mid,Data Engineer,Hyderabad,balanced,SK004|SK022|SK017|SK021,2020-01-04
+EMP00049,Joshua Blair,10,Senior,Solutions Architect,Chennai,modern,SK002|SK001|SK011|SK003,2015-10-01
+EMP00050,Eric Carney,4,Mid,Systems Analyst,Mysuru,modern,SK015|SK005|SK002|SK011,2022-04-06
+EMP00051,Jessica Holmes,10,Senior,Senior ML Engineer,Mysuru,legacy,SK016|SK010|SK023|SK024,2015-12-27
+EMP00052,Danny Morgan,8,Senior,Project Manager,Noida,modern,SK009|SK018|SK004|SK011|SK013,2017-07-01
+EMP00053,Crystal Robinson,1,Junior,Software Engineer,Hyderabad,balanced,SK013|SK011,2024-12-14
+EMP00054,Mark Perez,1,Junior,Software Engineer,Noida,modern,SK021|SK002|SK005,2024-11-25
+EMP00055,Shannon Jones,7,Senior,Project Manager,Chennai,balanced,SK003|SK016|SK015|SK006|SK025|SK021,2019-05-13
+EMP00056,Michael Lewis,1,Junior,QA Engineer,Bengaluru,legacy,SK026|SK004|SK023,2024-11-10
+EMP00057,Timothy Duncan,3,Mid,Data Engineer,Hubli,legacy,SK022|SK024|SK025|SK017,2023-01-03
+EMP00058,Richard Aguirre,1,Junior,Business Analyst,Pune,legacy,SK009|SK020|SK014,2025-02-03
+EMP00059,Brent Jordan,4,Mid,Data Engineer,Mysuru,legacy,SK014|SK025|SK021,2021-09-01
+EMP00060,John Daniel,4,Mid,ML Engineer,Chennai,balanced,SK010|SK019|SK007|SK009|SK012,2021-12-29
+EMP00061,Victoria Garcia,1,Junior,Business Analyst,Chennai,balanced,SK020|SK022|SK018,2024-07-06
+EMP00062,Gerald Hensley,15,Senior,Senior ML Engineer,Pune,balanced,SK003|SK014|SK012|SK021|SK026|SK015,2010-08-24
+EMP00063,Connor West,10,Senior,Senior ML Engineer,Hyderabad,legacy,SK025|SK015|SK022|SK005|SK010,2015-08-21
+EMP00064,Donald Wright,7,Senior,Project Manager,Mysuru,legacy,SK022|SK018|SK023|SK025|SK026|SK004,2018-06-28
+EMP00065,Jessica Callahan,4,Mid,ML Engineer,Hubli,modern,SK003|SK008|SK006,2021-12-24
+EMP00066,Amber Kidd,3,Mid,ML Engineer,Pune,legacy,SK026|SK022|SK020,2022-11-20
+EMP00067,Tracy House,6,Mid,Data Engineer,Hyderabad,modern,SK002|SK023|SK007,2019-12-06
+EMP00068,Carol Tucker,6,Mid,ML Engineer,Bengaluru,modern,SK019|SK009|SK003|SK007,2020-04-16
+EMP00069,James Brown,5,Mid,Senior Software Engineer,Noida,modern,SK010|SK006|SK025|SK017|SK016,2021-03-14
+EMP00070,William Baker,1,Junior,Software Engineer,Hyderabad,modern,SK001|SK018,2024-12-04
+EMP00071,Jordan Henderson,15,Senior,Senior ML Engineer,Noida,legacy,SK021|SK023|SK018|SK014|SK009,2011-06-22
+EMP00072,Whitney Peters,12,Senior,Solutions Architect,Hubli,modern,SK019|SK012|SK001|SK005,2014-05-14
+EMP00073,Brittney Phillips,7,Senior,Technical Lead,Chennai,balanced,SK022|SK009|SK026|SK003|SK020,2019-03-01
+EMP00074,Lauren Daniels,5,Mid,ML Engineer,Hubli,legacy,SK021|SK022|SK012|SK008|SK001,2020-08-30
+EMP00075,Amy Silva,6,Mid,ML Engineer,Hubli,balanced,SK012|SK024|SK010|SK014,2019-07-21
+EMP00076,Sarah Moore,4,Mid,Systems Analyst,Hubli,balanced,SK019|SK021|SK012|SK022|SK020,2021-07-15
+EMP00077,Angela Lopez,4,Mid,Senior Software Engineer,Mysuru,balanced,SK010|SK006|SK016|SK009,2022-03-01
+EMP00078,Megan Young,2,Junior,Business Analyst,Bengaluru,balanced,SK011|SK019,2023-06-25
+EMP00079,Steve Sanchez,7,Senior,Project Manager,Noida,legacy,SK019|SK022|SK010|SK011,2018-09-17
+EMP00080,Lisa Barnes,2,Junior,Business Analyst,Pune,modern,SK001|SK009|SK006,2024-05-04
+EMP00081,Kelly Donovan,4,Mid,Senior Software Engineer,Pune,modern,SK005|SK002|SK008|SK011,2022-04-25
+EMP00082,Mike Allen,10,Senior,Solutions Architect,Hyderabad,balanced,SK001|SK023|SK003|SK016|SK026|SK014,2016-04-26
+EMP00083,Michael Evans,5,Mid,ML Engineer,Bengaluru,legacy,SK020|SK023|SK004|SK009,2021-06-13
+EMP00084,Paul Jones,7,Senior,Project Manager,Hubli,balanced,SK014|SK003|SK012|SK007|SK008|SK011,2018-12-01
+EMP00085,Zachary Ferrell,6,Mid,Data Engineer,Hubli,modern,SK006|SK002|SK020,2019-11-21
+EMP00086,Daniel Baker,5,Mid,Senior Software Engineer,Noida,legacy,SK019|SK005|SK020|SK021,2020-09-29
+EMP00087,Shirley Suarez,6,Mid,Systems Analyst,Noida,balanced,SK009|SK024|SK016|SK007|SK013,2019-11-04
+EMP00088,Christopher Bass,12,Senior,Senior ML Engineer,Hyderabad,modern,SK003|SK004|SK006|SK005,2013-08-15
+EMP00089,Lisa Archer,9,Senior,Project Manager,Noida,balanced,SK011|SK026|SK003|SK023|SK020|SK007,2017-04-20
+EMP00090,Aimee Montoya,12,Senior,Senior ML Engineer,Hubli,balanced,SK013|SK022|SK006|SK026|SK019|SK018,2014-02-02
+EMP00091,Matthew Mcmillan,1,Junior,Business Analyst,Bengaluru,legacy,SK005|SK020|SK026,2024-07-21
+EMP00092,Brian Rodriguez,5,Mid,Systems Analyst,Chennai,balanced,SK012|SK015|SK005,2021-01-03
+EMP00093,Denise Jacobs,9,Senior,Technical Lead,Bengaluru,modern,SK001|SK002|SK008|SK010,2017-03-19
+EMP00094,Christina Walters,1,Junior,QA Engineer,Noida,legacy,SK026|SK007,2025-02-02
+EMP00095,John Whitehead,2,Junior,QA Engineer,Hyderabad,modern,SK012|SK009,2023-08-04
+EMP00096,Anna Henderson,8,Senior,Technical Lead,Hyderabad,legacy,SK012|SK010|SK024|SK022|SK020|SK017,2017-10-27
+EMP00097,Aaron Wise,6,Mid,Senior Software Engineer,Bengaluru,legacy,SK019|SK018|SK017|SK024,2020-01-29
+EMP00098,Deborah Figueroa,6,Mid,ML Engineer,Noida,legacy,SK018|SK020|SK025,2020-05-12
+EMP00099,Jessica Smith,1,Junior,Software Engineer,Noida,modern,SK012|SK011|SK003,2025-02-28
+EMP00100,Stephen Mckee,6,Mid,Data Engineer,Hyderabad,legacy,SK024|SK009|SK017|SK014,2019-09-05
+EMP00101,Sandra Aguilar,1,Junior,Business Analyst,Chennai,balanced,SK013|SK020|SK003,2025-01-11
+EMP00102,Cameron Parker,4,Mid,Data Engineer,Pune,modern,SK007|SK014|SK003,2022-05-04
+EMP00103,Rebecca Valencia,4,Mid,ML Engineer,Hyderabad,balanced,SK017|SK019|SK015,2021-08-25
+EMP00104,Christine Wright,6,Mid,Data Engineer,Mysuru,legacy,SK017|SK013|SK018|SK021|SK026,2020-03-08
+EMP00105,Richard Henson,5,Mid,Systems Analyst,Chennai,modern,SK012|SK010|SK002,2020-07-31
+EMP00106,Marc Moore,9,Senior,Project Manager,Chennai,balanced,SK004|SK015|SK016|SK012,2017-05-23
+EMP00107,Sharon Cherry,1,Junior,Business Analyst,Chennai,legacy,SK019|SK007,2024-07-08
+EMP00108,Sierra Johnson,9,Senior,Technical Lead,Hyderabad,legacy,SK017|SK013|SK021|SK018|SK024,2016-12-01
+EMP00109,Evelyn Galvan,9,Senior,Senior ML Engineer,Bengaluru,balanced,SK003|SK011|SK023|SK024,2016-11-23
+EMP00110,Sharon Cochran,5,Mid,Systems Analyst,Bengaluru,balanced,SK006|SK012|SK004|SK005|SK013,2020-12-04
+EMP00111,Richard Rodriguez,1,Junior,Business Analyst,Hubli,balanced,SK016|SK017,2025-01-14
+EMP00112,Shannon Walker,2,Junior,Software Engineer,Hubli,modern,SK024|SK003,2024-02-22
+EMP00113,Julia Torres,10,Senior,Senior ML Engineer,Bengaluru,legacy,SK020|SK021|SK004|SK023|SK012|SK025,2016-05-20
+EMP00114,Crystal Johnson,5,Mid,Senior Software Engineer,Mysuru,modern,SK008|SK009|SK002,2021-04-03
+EMP00115,Garrett Lin,7,Senior,Technical Lead,Hyderabad,balanced,SK012|SK011|SK015|SK005|SK023,2018-06-27
+EMP00116,Diana May,8,Senior,Technical Lead,Bengaluru,modern,SK010|SK007|SK001|SK003|SK012,2017-07-07
+EMP00117,William Herrera,4,Mid,Systems Analyst,Bengaluru,modern,SK004|SK011|SK001,2022-04-27
+EMP00118,Ashley Waller,3,Mid,Data Engineer,Pune,modern,SK011|SK004|SK002,2023-03-16
+EMP00119,Victor Baker,15,Senior,Solutions Architect,Hyderabad,legacy,SK018|SK022|SK012|SK017|SK025,2011-06-16
+EMP00120,Jeffrey Chandler,6,Mid,Data Engineer,Mysuru,modern,SK001|SK003|SK010,2019-12-15
+EMP00121,Larry Dixon,7,Senior,Solutions Architect,Hyderabad,legacy,SK017|SK015|SK018|SK021,2019-06-01
+EMP00122,Kenneth Scott,6,Mid,ML Engineer,Noida,legacy,SK018|SK025|SK013|SK026,2019-06-22
+EMP00123,April Frost,2,Junior,QA Engineer,Hyderabad,balanced,SK026|SK013|SK005,2024-02-25
+EMP00124,Michelle Harmon,5,Mid,Senior Software Engineer,Bengaluru,balanced,SK017|SK007|SK004,2020-10-28
+EMP00125,Helen Jones,4,Mid,ML Engineer,Pune,balanced,SK005|SK008|SK001|SK024,2021-07-14
+EMP00126,Erin Edwards,9,Senior,Solutions Architect,Chennai,modern,SK009|SK011|SK016|SK004,2016-06-24
+EMP00127,Michelle Evans,2,Junior,QA Engineer,Noida,legacy,SK025|SK021,2023-09-25
+EMP00128,Jason Powell,6,Mid,Senior Software Engineer,Mysuru,modern,SK021|SK007|SK006,2020-02-19
+EMP00129,Cameron Fisher,4,Mid,Senior Software Engineer,Bengaluru,modern,SK012|SK002|SK010|SK004,2022-01-22
+EMP00130,Megan Orr,9,Senior,Solutions Architect,Mysuru,balanced,SK019|SK008|SK015|SK013|SK018|SK025,2017-04-13
+EMP00131,Elizabeth Kelley,5,Mid,Systems Analyst,Noida,modern,SK005|SK010|SK001|SK008,2020-06-20
+EMP00132,Dustin Jordan,2,Junior,Software Engineer,Hyderabad,legacy,SK006|SK005,2024-06-02
+EMP00133,Mary Marshall,4,Mid,Data Engineer,Hyderabad,balanced,SK012|SK007|SK022,2021-11-03
+EMP00134,Daniel Kennedy,1,Junior,Business Analyst,Chennai,modern,SK010|SK006,2025-05-06
+EMP00135,Rebecca Jackson,9,Senior,Senior ML Engineer,Chennai,modern,SK023|SK007|SK003|SK009,2016-11-17
+EMP00136,Jose Schultz,8,Senior,Senior ML Engineer,Pune,legacy,SK022|SK024|SK014|SK019|SK013|SK026,2017-06-21
+EMP00137,Robert Potter,7,Senior,Solutions Architect,Hyderabad,balanced,SK026|SK015|SK013|SK009|SK004,2019-06-14
+EMP00138,Courtney Gonzalez,3,Mid,Senior Software Engineer,Chennai,balanced,SK021|SK020|SK002|SK012,2023-03-09
+EMP00139,David Alvarez,1,Junior,Business Analyst,Bengaluru,balanced,SK015|SK013,2025-02-08
+EMP00140,Angel Perry,7,Senior,Technical Lead,Mysuru,balanced,SK002|SK009|SK015|SK021|SK017,2019-06-05
+EMP00141,Cheyenne Horton,4,Mid,Senior Software Engineer,Bengaluru,balanced,SK013|SK026|SK001|SK005,2021-09-19
+EMP00142,David Douglas Jr.,12,Senior,Senior ML Engineer,Hyderabad,modern,SK001|SK002|SK008|SK010|SK006|SK007,2013-06-28
+EMP00143,Patricia Rodriguez,5,Mid,ML Engineer,Chennai,modern,SK002|SK006|SK005,2020-07-31
+EMP00144,Christopher Rubio,7,Senior,Solutions Architect,Hyderabad,modern,SK001|SK026|SK007|SK006,2018-07-12
+EMP00145,Amber Wright,2,Junior,QA Engineer,Bengaluru,legacy,SK024|SK006,2023-12-04
+EMP00146,Joyce Solis,15,Senior,Senior ML Engineer,Chennai,legacy,SK019|SK021|SK010|SK026|SK013|SK022,2010-10-23
+EMP00147,Victoria Larson,5,Mid,Senior Software Engineer,Chennai,modern,SK006|SK001|SK024|SK016,2021-06-15
+EMP00148,Stephanie Salazar,1,Junior,QA Engineer,Noida,modern,SK009|SK010,2024-10-21
+EMP00149,Kathy Rivas,2,Junior,QA Engineer,Pune,balanced,SK013|SK026|SK024,2023-11-05
+EMP00150,Stephanie Manning,2,Junior,QA Engineer,Mysuru,balanced,SK001|SK024|SK023,2023-09-26
+EMP00151,David Wright,10,Senior,Solutions Architect,Hyderabad,modern,SK008|SK001|SK017|SK006|SK022|SK012,2015-11-08
+EMP00152,Pamela Boyd,4,Mid,Data Engineer,Pune,modern,SK011|SK001|SK009|SK024|SK002,2021-09-09
+EMP00153,Denise Jones,1,Junior,Software Engineer,Bengaluru,modern,SK019|SK008,2025-02-24
+EMP00154,Devon Flores,9,Senior,Technical Lead,Mysuru,balanced,SK023|SK020|SK014|SK007|SK004,2016-08-21
+EMP00155,Brenda Hall,7,Senior,Project Manager,Bengaluru,modern,SK022|SK002|SK011|SK003|SK019|SK024,2018-10-15
+EMP00156,Michelle Brown,1,Junior,Software Engineer,Hubli,modern,SK015|SK004,2025-05-11
+EMP00157,Joshua Perry,2,Junior,QA Engineer,Hubli,balanced,SK020|SK007|SK006,2024-06-06
+EMP00158,Jason Stein,6,Mid,Data Engineer,Bengaluru,balanced,SK004|SK010|SK001,2019-06-21
+EMP00159,Melissa Gates,8,Senior,Technical Lead,Noida,modern,SK001|SK007|SK017|SK003|SK013,2017-09-16
+EMP00160,Jamie Smith,12,Senior,Senior ML Engineer,Bengaluru,legacy,SK010|SK023|SK022|SK019|SK004,2014-02-22
+EMP00161,Paul Castaneda,1,Junior,Business Analyst,Bengaluru,legacy,SK022|SK019|SK021,2025-06-12
+EMP00162,Jennifer Adkins,1,Junior,Business Analyst,Noida,modern,SK008|SK012,2025-04-22
+EMP00163,Lindsey Walker,1,Junior,Software Engineer,Chennai,modern,SK026|SK007|SK003,2024-09-07
+EMP00164,Jeffrey Johnson,7,Senior,Technical Lead,Hubli,legacy,SK013|SK008|SK025|SK026|SK002,2019-05-31
+EMP00165,Michael Powell,10,Senior,Senior ML Engineer,Hubli,balanced,SK011|SK008|SK026|SK023,2016-06-06
+EMP00166,John Anderson,8,Senior,Technical Lead,Hubli,modern,SK011|SK006|SK018|SK008|SK025|SK003,2018-01-27
+EMP00167,Alyssa Long,1,Junior,Software Engineer,Chennai,legacy,SK024|SK023|SK021,2024-12-20
+EMP00168,Alyssa Day,12,Senior,Project Manager,Pune,balanced,SK021|SK013|SK004|SK018|SK011,2014-01-07
+EMP00169,Joel Williams,2,Junior,Software Engineer,Mysuru,modern,SK010|SK005|SK014,2024-04-16
+EMP00170,Daniel Murphy,4,Mid,Systems Analyst,Hyderabad,modern,SK007|SK008|SK010,2022-05-19
+EMP00171,Jamie Walton,7,Senior,Project Manager,Chennai,legacy,SK023|SK003|SK019|SK006,2019-04-06
+EMP00172,Darlene Miller,15,Senior,Senior ML Engineer,Mysuru,balanced,SK017|SK019|SK015|SK001|SK009|SK014,2010-09-07
+EMP00173,Joshua Cooke,10,Senior,Project Manager,Chennai,modern,SK002|SK007|SK003|SK009|SK011,2016-01-30
+EMP00174,Matthew Harrington,2,Junior,QA Engineer,Noida,balanced,SK025|SK004,2024-02-17
+EMP00175,Nicole Herring,1,Junior,Software Engineer,Bengaluru,balanced,SK016|SK008|SK025,2024-07-26
+EMP00176,Alex Hernandez,7,Senior,Solutions Architect,Hubli,legacy,SK021|SK019|SK022|SK020|SK024,2019-06-18
+EMP00177,Michael Elliott,1,Junior,Business Analyst,Bengaluru,balanced,SK003|SK002|SK007,2025-05-25
+EMP00178,Michael Wang,10,Senior,Technical Lead,Hubli,modern,SK008|SK012|SK019|SK007|SK001,2015-08-26
+EMP00179,Lawrence Adkins,5,Mid,Data Engineer,Hubli,balanced,SK009|SK015|SK013|SK003,2020-10-20
+EMP00180,Robert Oconnell,7,Senior,Project Manager,Hyderabad,balanced,SK006|SK022|SK005|SK025,2019-05-28
+EMP00181,Alexander Collins,4,Mid,Systems Analyst,Bengaluru,legacy,SK003|SK025|SK021|SK019,2022-02-23
+EMP00182,Tina Sanders,4,Mid,Data Engineer,Pune,balanced,SK021|SK018|SK026|SK008,2022-02-15
+EMP00183,Angela Vaughn,2,Junior,QA Engineer,Hyderabad,balanced,SK022|SK007,2023-09-11
+EMP00184,Ashley Barton,7,Senior,Solutions Architect,Noida,modern,SK004|SK025|SK003|SK017|SK008,2018-08-07
+EMP00185,Lindsay Martinez,1,Junior,Business Analyst,Mysuru,balanced,SK014|SK010,2025-02-09
+EMP00186,Dr. Hannah Patterson,1,Junior,QA Engineer,Hubli,balanced,SK026|SK007,2024-11-02
+EMP00187,Jonathan Peterson,1,Junior,Business Analyst,Hubli,legacy,SK008|SK026,2024-08-20
+EMP00188,Samantha Garcia,2,Junior,Software Engineer,Mysuru,modern,SK003|SK009|SK006,2023-07-05
+EMP00189,Madison Poole,2,Junior,Business Analyst,Pune,modern,SK010|SK011,2024-04-16
+EMP00190,Jessica Gross,3,Mid,Senior Software Engineer,Hyderabad,balanced,SK010|SK014|SK021,2023-02-20
+EMP00191,Debra Morton,9,Senior,Project Manager,Bengaluru,legacy,SK012|SK007|SK016|SK004|SK020|SK026,2016-09-09
+EMP00192,Karen Graham,7,Senior,Technical Lead,Mysuru,balanced,SK025|SK009|SK014|SK002|SK004|SK026,2018-11-17
+EMP00193,Debra Christian,7,Senior,Senior ML Engineer,Pune,legacy,SK021|SK025|SK019|SK020|SK022,2018-07-16
+EMP00194,Angelica Keith,2,Junior,QA Engineer,Hubli,modern,SK011|SK004|SK025,2024-02-11
+EMP00195,John Bishop,8,Senior,Senior ML Engineer,Mysuru,balanced,SK023|SK005|SK019|SK022,2017-11-15
+EMP00196,Allen Rosales,4,Mid,Systems Analyst,Hyderabad,balanced,SK017|SK023|SK015|SK001,2021-07-27
+EMP00197,Daniel Salinas,9,Senior,Project Manager,Hubli,balanced,SK025|SK022|SK018|SK016,2016-11-13
+EMP00198,Spencer Haynes,2,Junior,QA Engineer,Pune,modern,SK025|SK007|SK018,2024-04-07
+EMP00199,Adam Vaughan,1,Junior,Software Engineer,Bengaluru,balanced,SK023|SK011,2025-02-07
+EMP00200,Nathan Freeman,7,Senior,Solutions Architect,Noida,legacy,SK025|SK017|SK018|SK022|SK015,2019-04-17
+EMP00201,Melissa Brewer,4,Mid,Systems Analyst,Bengaluru,balanced,SK010|SK015|SK016|SK012|SK001,2021-09-26
+EMP00202,Ricky Davis II,6,Mid,Senior Software Engineer,Pune,balanced,SK020|SK014|SK015|SK025,2020-02-24
+EMP00203,Elizabeth Perkins,9,Senior,Senior ML Engineer,Mysuru,balanced,SK011|SK016|SK014|SK021,2016-07-30
+EMP00204,Joseph Coleman,8,Senior,Project Manager,Hyderabad,balanced,SK022|SK012|SK024|SK002|SK025|SK018,2018-05-01
+EMP00205,Erin Warner,1,Junior,Business Analyst,Chennai,balanced,SK006|SK005,2025-04-28
+EMP00206,David Martinez,7,Senior,Solutions Architect,Hubli,legacy,SK020|SK017|SK021|SK023,2019-04-05
+EMP00207,Bryan Herrera,4,Mid,Senior Software Engineer,Bengaluru,balanced,SK004|SK023|SK021,2022-01-12
+EMP00208,Cathy Robinson,7,Senior,Technical Lead,Mysuru,balanced,SK007|SK026|SK013|SK021,2018-12-31
+EMP00209,Dr. William Warren,1,Junior,Software Engineer,Hubli,modern,SK001|SK010|SK008,2024-11-11
+EMP00210,Brian Lee,2,Junior,Software Engineer,Noida,balanced,SK005|SK010,2024-01-01
+EMP00211,Christopher Smith,10,Senior,Project Manager,Hubli,modern,SK013|SK005|SK016|SK007,2015-12-02
+EMP00212,Denise Mccann,9,Senior,Senior ML Engineer,Chennai,balanced,SK012|SK016|SK005|SK020|SK023|SK006,2017-01-22
+EMP00213,Melissa Martinez,1,Junior,Software Engineer,Bengaluru,modern,SK004|SK010,2025-04-02
+EMP00214,Katherine Salas,6,Mid,Systems Analyst,Pune,balanced,SK026|SK004|SK019,2019-08-02
+EMP00215,Julie Alexander,4,Mid,Senior Software Engineer,Pune,balanced,SK019|SK026|SK004,2022-06-01
+EMP00216,Anthony Everett,6,Mid,Data Engineer,Mysuru,balanced,SK008|SK003|SK024|SK006,2020-02-05
+EMP00217,Rodney Morales,4,Mid,Data Engineer,Mysuru,balanced,SK002|SK014|SK021|SK007,2022-01-22
+EMP00218,Mark Brown,3,Mid,Senior Software Engineer,Pune,balanced,SK007|SK012|SK005|SK002,2022-12-30
+EMP00219,Justin Torres,7,Senior,Solutions Architect,Hubli,legacy,SK019|SK017|SK021|SK005,2018-07-23
+EMP00220,Bailey Duran DDS,6,Mid,Data Engineer,Hyderabad,modern,SK009|SK002|SK007|SK012|SK006,2020-02-05
+EMP00221,Courtney Mills,9,Senior,Senior ML Engineer,Noida,modern,SK007|SK003|SK026|SK022|SK009,2017-02-20
+EMP00222,Jeremy Dalton,7,Senior,Senior ML Engineer,Chennai,modern,SK013|SK018|SK010|SK008|SK003,2019-01-30
+EMP00223,Elizabeth Oliver DDS,1,Junior,Software Engineer,Hyderabad,modern,SK006|SK002,2024-10-13
+EMP00224,Theresa Clark,5,Mid,Systems Analyst,Noida,legacy,SK016|SK026|SK025|SK010|SK024,2021-01-28
+EMP00225,Matthew Moore,15,Senior,Solutions Architect,Noida,balanced,SK014|SK011|SK015|SK017,2011-01-16
+EMP00226,Benjamin Smith,10,Senior,Senior ML Engineer,Pune,balanced,SK004|SK006|SK022|SK009|SK001,2015-07-10
+EMP00227,Kirk Carter,7,Senior,Senior ML Engineer,Noida,legacy,SK021|SK026|SK019|SK017|SK022,2018-08-04
+EMP00228,Michael Warner,6,Mid,Senior Software Engineer,Chennai,legacy,SK017|SK026|SK024|SK022,2020-05-26
+EMP00229,Michael Bradshaw,2,Junior,Software Engineer,Noida,balanced,SK026|SK012,2024-01-30
+EMP00230,Lori Guerrero,12,Senior,Solutions Architect,Hyderabad,modern,SK017|SK001|SK010|SK006|SK007,2014-06-17
+EMP00231,Jessica Stephens,8,Senior,Senior ML Engineer,Noida,modern,SK008|SK012|SK010|SK005|SK007,2018-03-14
+EMP00232,Susan Serrano,1,Junior,QA Engineer,Pune,modern,SK002|SK011|SK001,2024-10-02
+EMP00233,Christopher Parker,6,Mid,Systems Analyst,Noida,modern,SK004|SK003|SK011,2019-11-02
+EMP00234,Laura Roberts,8,Senior,Senior ML Engineer,Hyderabad,legacy,SK019|SK011|SK018|SK024,2017-11-04
+EMP00235,Michael Lyons,4,Mid,Senior Software Engineer,Mysuru,modern,SK007|SK008|SK001,2022-04-02
+EMP00236,Kathryn Snyder,6,Mid,Data Engineer,Chennai,modern,SK009|SK004|SK001|SK025|SK016,2019-12-30
+EMP00237,Andrew Reynolds,1,Junior,QA Engineer,Pune,modern,SK009|SK008,2024-08-15
+EMP00238,David Davis,3,Mid,Senior Software Engineer,Noida,balanced,SK004|SK009|SK020,2022-10-31
+EMP00239,Sara Johnston,9,Senior,Project Manager,Pune,balanced,SK012|SK021|SK024|SK025,2017-06-04
+EMP00240,Yvonne Chambers,7,Senior,Solutions Architect,Mysuru,balanced,SK012|SK007|SK022|SK001,2018-11-01
+EMP00241,Andrew Avila,5,Mid,Systems Analyst,Bengaluru,balanced,SK011|SK012|SK006|SK024|SK023,2021-04-12
+EMP00242,Matthew Moon,8,Senior,Technical Lead,Pune,balanced,SK002|SK001|SK020|SK018,2018-01-20
+EMP00243,Kevin Walters,1,Junior,Software Engineer,Hubli,balanced,SK010|SK008|SK021,2025-05-22
+EMP00244,Brandon Bailey MD,3,Mid,Systems Analyst,Bengaluru,modern,SK011|SK012|SK005|SK001,2022-11-12
+EMP00245,Shannon Rivera,10,Senior,Technical Lead,Hubli,legacy,SK022|SK001|SK015|SK005,2015-11-17
+EMP00246,Donna Landry,5,Mid,ML Engineer,Pune,legacy,SK017|SK008|SK019|SK007,2020-09-24
+EMP00247,Krista Gibson,6,Mid,Systems Analyst,Chennai,balanced,SK017|SK005|SK002|SK003|SK016,2020-01-19
+EMP00248,Frank Cordova,4,Mid,Senior Software Engineer,Chennai,balanced,SK016|SK025|SK007|SK004,2021-09-05
+EMP00249,Jose Travis,5,Mid,Data Engineer,Pune,balanced,SK008|SK022|SK023,2020-09-25
+EMP00250,Kimberly Gutierrez,12,Senior,Technical Lead,Mysuru,balanced,SK006|SK026|SK020|SK015|SK005,2013-11-10
+EMP00251,Isaiah Avila,2,Junior,QA Engineer,Bengaluru,legacy,SK016|SK020|SK023,2023-10-05
+EMP00252,Olivia Harris,2,Junior,Business Analyst,Noida,modern,SK024|SK008,2024-03-23
+EMP00253,Tanya Kim,3,Mid,Data Engineer,Pune,balanced,SK016|SK014|SK008|SK015,2023-05-21
+EMP00254,Barbara Dudley,10,Senior,Solutions Architect,Bengaluru,legacy,SK019|SK010|SK020|SK024|SK023|SK025,2016-03-09
+EMP00255,Cynthia Moore,2,Junior,Business Analyst,Pune,legacy,SK012|SK020|SK023,2023-11-01
+EMP00256,Kristen Davis,6,Mid,Systems Analyst,Mysuru,balanced,SK021|SK015|SK001|SK020,2020-04-27
+EMP00257,Susan Murray MD,9,Senior,Technical Lead,Mysuru,modern,SK024|SK006|SK003|SK005|SK019,2017-03-12
+EMP00258,Kathleen Moran,2,Junior,QA Engineer,Hubli,balanced,SK019|SK024,2023-11-05
+EMP00259,Denise Davenport,2,Junior,QA Engineer,Mysuru,balanced,SK019|SK001|SK017,2023-10-03
+EMP00260,Mrs. Kristen Reyes,2,Junior,QA Engineer,Pune,modern,SK010|SK008,2024-06-05
+EMP00261,Katie Suarez,8,Senior,Solutions Architect,Mysuru,balanced,SK015|SK016|SK018|SK022,2018-01-13
+EMP00262,Desiree Tyler,1,Junior,QA Engineer,Hubli,balanced,SK003|SK002,2025-03-02
+EMP00263,Timothy Romero,8,Senior,Senior ML Engineer,Hyderabad,balanced,SK021|SK014|SK012|SK004|SK009,2017-12-20
+EMP00264,Diane Evans,2,Junior,QA Engineer,Mysuru,modern,SK010|SK012,2023-08-11
+EMP00265,Yvonne Burns,12,Senior,Solutions Architect,Mysuru,modern,SK010|SK008|SK003|SK011,2014-05-06
+EMP00266,Joshua Reed,9,Senior,Senior ML Engineer,Hubli,balanced,SK025|SK006|SK015|SK026|SK005|SK019,2016-07-06
+EMP00267,Kimberly Gibson,9,Senior,Project Manager,Chennai,balanced,SK025|SK021|SK002|SK023,2017-04-13
+EMP00268,Colin Terry,9,Senior,Technical Lead,Pune,balanced,SK012|SK025|SK019|SK017,2017-02-15
+EMP00269,Cynthia Rowe,8,Senior,Project Manager,Hyderabad,legacy,SK023|SK001|SK004|SK013|SK008,2018-04-25
+EMP00270,Patrick Thornton,8,Senior,Solutions Architect,Noida,legacy,SK004|SK016|SK015|SK017,2017-11-13
+EMP00271,Jasmin Alvarado,8,Senior,Project Manager,Chennai,modern,SK012|SK007|SK013|SK002|SK008,2017-12-19
+EMP00272,Veronica Simpson,1,Junior,QA Engineer,Chennai,legacy,SK008|SK020|SK018,2025-06-12
+EMP00273,Jonathan Lawrence,1,Junior,Business Analyst,Hyderabad,modern,SK011|SK024,2025-01-27
+EMP00274,Shelly Alexander,10,Senior,Solutions Architect,Noida,modern,SK007|SK005|SK012|SK025,2016-03-31
+EMP00275,Joyce Bowen,2,Junior,Business Analyst,Hyderabad,modern,SK009|SK008,2023-07-10
+EMP00276,Matthew Moore,12,Senior,Technical Lead,Pune,modern,SK001|SK012|SK007|SK002,2014-03-28
+EMP00277,Wayne Morgan,6,Mid,Systems Analyst,Bengaluru,legacy,SK013|SK018|SK020,2020-03-26
+EMP00278,Marie Christian,5,Mid,Data Engineer,Mysuru,modern,SK008|SK003|SK023|SK018,2021-04-15
+EMP00279,Shannon James,1,Junior,QA Engineer,Hyderabad,balanced,SK017|SK015|SK002,2024-08-29
+EMP00280,Nathan Malone,9,Senior,Senior ML Engineer,Hyderabad,legacy,SK024|SK019|SK017|SK025|SK020,2017-04-14
+EMP00281,Amanda Jones,8,Senior,Technical Lead,Bengaluru,modern,SK002|SK011|SK003|SK004|SK023,2018-01-04
+EMP00282,Tammie Bright,15,Senior,Senior ML Engineer,Chennai,balanced,SK015|SK003|SK009|SK008|SK011,2010-11-08
+EMP00283,Jessica Garcia,1,Junior,Business Analyst,Noida,balanced,SK011|SK003|SK012,2024-09-25
+EMP00284,Shelia Wallace,2,Junior,Software Engineer,Chennai,modern,SK006|SK012|SK005,2024-04-08
+EMP00285,Stephanie Williams,9,Senior,Solutions Architect,Mysuru,modern,SK020|SK009|SK007|SK003|SK010|SK006,2016-09-11
+EMP00286,Elaine Brooks,3,Mid,Data Engineer,Mysuru,modern,SK004|SK003|SK020|SK011,2023-03-05
+EMP00287,Joseph Knight,3,Mid,ML Engineer,Chennai,balanced,SK003|SK023|SK021|SK014,2023-06-04
+EMP00288,Carolyn Miller,15,Senior,Solutions Architect,Hyderabad,legacy,SK022|SK021|SK010|SK025,2010-11-12
+EMP00289,Lisa Allen,7,Senior,Senior ML Engineer,Mysuru,balanced,SK003|SK001|SK022|SK006|SK010|SK026,2018-09-29
+EMP00290,Briana Murray,9,Senior,Technical Lead,Noida,modern,SK012|SK026|SK020|SK011|SK005,2016-11-17
+EMP00291,David Smith,5,Mid,Senior Software Engineer,Noida,legacy,SK020|SK014|SK007|SK005|SK023,2021-01-08
+EMP00292,Stephanie Byrd,2,Junior,QA Engineer,Hyderabad,balanced,SK005|SK016,2023-09-14
+EMP00293,Jeremy Reed,6,Mid,Data Engineer,Noida,balanced,SK021|SK022|SK007|SK001,2019-09-22
+EMP00294,Margaret Coleman,1,Junior,Business Analyst,Hubli,balanced,SK002|SK005,2024-11-30
+EMP00295,Ryan Gonzalez,7,Senior,Solutions Architect,Bengaluru,legacy,SK016|SK022|SK020|SK015,2018-12-12
+EMP00296,John Young,1,Junior,Business Analyst,Hyderabad,modern,SK011|SK023,2025-05-11
+EMP00297,Laura Haney,9,Senior,Technical Lead,Chennai,legacy,SK022|SK025|SK001|SK010,2016-07-02
+EMP00298,William Barrett,4,Mid,Data Engineer,Noida,modern,SK006|SK002|SK007|SK014,2022-03-28
+EMP00299,Keith Jennings,1,Junior,QA Engineer,Mysuru,balanced,SK024|SK008|SK023,2025-03-28
+EMP00300,Amber Obrien,15,Senior,Project Manager,Noida,legacy,SK024|SK002|SK026|SK023|SK017|SK012,2011-02-23
+EMP00301,Tanner Mitchell DDS,7,Senior,Solutions Architect,Hubli,modern,SK005|SK001|SK009|SK018,2018-08-16
+EMP00302,Heather Fields,3,Mid,ML Engineer,Noida,balanced,SK016|SK002|SK023|SK009|SK010,2023-02-20
+EMP00303,Megan Le,2,Junior,Business Analyst,Chennai,balanced,SK022|SK008,2023-09-25
+EMP00304,Sara Fuller,6,Mid,Data Engineer,Mysuru,legacy,SK020|SK004|SK024|SK021,2019-12-02
+EMP00305,Maria Parker,10,Senior,Solutions Architect,Chennai,legacy,SK025|SK021|SK020|SK019|SK017|SK023,2015-06-26
+EMP00306,Kevin Oconnor,3,Mid,Systems Analyst,Noida,modern,SK023|SK007|SK013,2022-12-23
+EMP00307,Edward Burgess,2,Junior,Software Engineer,Noida,modern,SK004|SK013,2024-04-13
+EMP00308,Carlos Ryan,7,Senior,Project Manager,Noida,modern,SK008|SK025|SK005|SK007|SK020,2018-11-23
+EMP00309,Kiara Mcintyre,4,Mid,ML Engineer,Mysuru,modern,SK003|SK005|SK025|SK006,2021-10-22
+EMP00310,Dawn Summers,6,Mid,Data Engineer,Pune,balanced,SK008|SK006|SK014|SK001,2019-08-23
+EMP00311,Dr. Paul Morgan,1,Junior,QA Engineer,Bengaluru,modern,SK002|SK006|SK014,2024-12-09
+EMP00312,Victor Taylor,5,Mid,Systems Analyst,Hyderabad,modern,SK005|SK015|SK009|SK020|SK010,2021-05-12
+EMP00313,Shannon Ramsey,5,Mid,Systems Analyst,Pune,modern,SK007|SK022|SK003|SK012|SK020,2021-03-03
+EMP00314,Tracy Ballard,6,Mid,Systems Analyst,Hubli,legacy,SK026|SK024|SK001,2019-07-09
+EMP00315,Richard Smith,1,Junior,Software Engineer,Hyderabad,modern,SK001|SK010|SK011,2024-07-30
+EMP00316,Jordan Chambers,4,Mid,Data Engineer,Hyderabad,balanced,SK003|SK016|SK015|SK024|SK011,2021-10-20
+EMP00317,Lauren Carson,3,Mid,ML Engineer,Mysuru,balanced,SK017|SK024|SK016|SK014|SK004,2022-12-01
+EMP00318,Ashley Hall,6,Mid,Data Engineer,Mysuru,balanced,SK004|SK024|SK002|SK014|SK001,2019-09-26
+EMP00319,Stephen Hoffman,3,Mid,Data Engineer,Bengaluru,modern,SK007|SK021|SK015,2023-02-13
+EMP00320,Connie Brown,3,Mid,ML Engineer,Chennai,legacy,SK004|SK018|SK024|SK005|SK020,2023-02-18
+EMP00321,Susan Turner,6,Mid,Systems Analyst,Hubli,balanced,SK012|SK016|SK020|SK003,2020-04-06
+EMP00322,Charles Shah,6,Mid,ML Engineer,Chennai,balanced,SK001|SK011|SK014|SK005,2020-06-13
+EMP00323,Johnathan Davis,2,Junior,Software Engineer,Hyderabad,legacy,SK026|SK017|SK020,2024-02-14
+EMP00324,Brandy Chavez,6,Mid,ML Engineer,Chennai,balanced,SK016|SK010|SK006,2019-11-29
+EMP00325,Natalie Bautista,5,Mid,Senior Software Engineer,Noida,balanced,SK004|SK013|SK001|SK014|SK026,2020-10-03
+EMP00326,Patrick Moore,1,Junior,Business Analyst,Chennai,modern,SK007|SK003|SK001,2024-08-08
+EMP00327,Brett Burns,2,Junior,QA Engineer,Bengaluru,modern,SK020|SK002,2024-01-01
+EMP00328,Trevor Johnson,4,Mid,Systems Analyst,Pune,legacy,SK021|SK024|SK026|SK017|SK016,2022-03-03
+EMP00329,Jeremy Sampson,15,Senior,Solutions Architect,Noida,balanced,SK005|SK015|SK020|SK022|SK011,2011-05-12
+EMP00330,Ariana Jennings,9,Senior,Solutions Architect,Hubli,modern,SK001|SK006|SK005|SK024,2016-06-27
+EMP00331,Vanessa Howard,5,Mid,Data Engineer,Chennai,balanced,SK004|SK012|SK017,2021-02-01
+EMP00332,Colton Martinez,2,Junior,Software Engineer,Pune,legacy,SK025|SK021,2023-10-14
+EMP00333,Jordan Bates,9,Senior,Solutions Architect,Chennai,modern,SK007|SK001|SK008|SK009|SK004|SK024,2017-02-24
+EMP00334,Linda Smith,6,Mid,Senior Software Engineer,Chennai,balanced,SK023|SK004|SK021|SK020,2020-05-31
+EMP00335,Dana Martinez,5,Mid,Systems Analyst,Mysuru,legacy,SK009|SK019|SK026|SK024,2020-12-19
+EMP00336,Andrea Hubbard,4,Mid,ML Engineer,Mysuru,balanced,SK015|SK012|SK016|SK024,2021-10-21
+EMP00337,Daniel Kane,8,Senior,Senior ML Engineer,Noida,legacy,SK018|SK024|SK023|SK021,2017-06-21
+EMP00338,Charles Lester,5,Mid,ML Engineer,Hyderabad,modern,SK017|SK007|SK020|SK001|SK019,2020-07-30
+EMP00339,Scott Thomas,5,Mid,Senior Software Engineer,Chennai,modern,SK012|SK022|SK001|SK019,2020-08-26
+EMP00340,David Thompson,6,Mid,Senior Software Engineer,Bengaluru,balanced,SK021|SK008|SK006,2020-04-24
+EMP00341,Allison Smith,9,Senior,Solutions Architect,Hyderabad,legacy,SK022|SK024|SK017|SK001|SK023|SK021,2017-05-15
+EMP00342,Cynthia Morris,1,Junior,QA Engineer,Hyderabad,legacy,SK022|SK023|SK024,2024-12-07
+EMP00343,Anthony Harmon,1,Junior,Software Engineer,Pune,balanced,SK003|SK011,2024-06-26
+EMP00344,Nichole Alvarez,3,Mid,ML Engineer,Pune,balanced,SK016|SK019|SK001|SK003|SK023,2023-04-15
+EMP00345,Kayla Rodriguez,1,Junior,Software Engineer,Chennai,legacy,SK014|SK019,2024-08-01
+EMP00346,Theresa Williams,1,Junior,QA Engineer,Pune,balanced,SK006|SK023,2024-11-16
+EMP00347,Sharon Boyd,12,Senior,Solutions Architect,Pune,modern,SK001|SK010|SK017|SK009|SK004,2013-09-26
+EMP00348,Victor Brown,6,Mid,ML Engineer,Pune,balanced,SK020|SK005|SK019,2020-05-19
+EMP00349,James Parks,4,Mid,Senior Software Engineer,Chennai,legacy,SK020|SK021|SK019|SK011,2022-04-28
+EMP00350,Theodore Jones Jr.,9,Senior,Technical Lead,Mysuru,balanced,SK004|SK024|SK019|SK011|SK005,2016-09-04
+EMP00351,Ana Hill,2,Junior,Business Analyst,Bengaluru,balanced,SK008|SK011|SK003,2023-10-22
+EMP00352,Kimberly Nguyen,5,Mid,Systems Analyst,Hyderabad,balanced,SK016|SK024|SK013|SK008,2020-08-04
+EMP00353,Kerry Chavez DDS,3,Mid,Senior Software Engineer,Noida,legacy,SK008|SK020|SK025|SK021|SK026,2023-03-29
+EMP00354,Michael Farrell,10,Senior,Technical Lead,Noida,modern,SK011|SK008|SK007|SK010|SK001|SK003,2015-10-30
+EMP00355,Patricia Le,7,Senior,Technical Lead,Hyderabad,modern,SK003|SK011|SK023|SK005,2018-07-16
+EMP00356,Jesse Perez,8,Senior,Senior ML Engineer,Noida,modern,SK006|SK024|SK008|SK007,2017-08-22
+EMP00357,Jesse Perry,1,Junior,Software Engineer,Hubli,balanced,SK010|SK002|SK020,2024-11-21
+EMP00358,Jeffery Ortega,5,Mid,Data Engineer,Hyderabad,balanced,SK010|SK023|SK019|SK017|SK021,2020-07-12
+EMP00359,Christian Leblanc,6,Mid,Data Engineer,Chennai,balanced,SK025|SK004|SK020|SK026,2020-01-23
+EMP00360,Ronald Davis,7,Senior,Technical Lead,Hubli,modern,SK020|SK005|SK006|SK001|SK002,2019-02-03
+EMP00361,Parker Cain,5,Mid,Data Engineer,Chennai,legacy,SK001|SK018|SK017|SK002|SK007,2021-02-02
+EMP00362,Laurie Hoffman,1,Junior,Business Analyst,Pune,balanced,SK014|SK016,2025-05-26
+EMP00363,Bryan Gomez,8,Senior,Project Manager,Hyderabad,legacy,SK020|SK022|SK017|SK023,2017-12-28
+EMP00364,Nicole Parrish,2,Junior,Business Analyst,Hubli,legacy,SK008|SK001|SK023,2023-11-10
+EMP00365,Tracy Burke,4,Mid,Senior Software Engineer,Noida,modern,SK001|SK005|SK012,2022-06-13
+EMP00366,Kenneth Lewis,3,Mid,Data Engineer,Pune,balanced,SK015|SK018|SK023|SK017,2023-01-11
+EMP00367,Courtney Rodriguez,10,Senior,Technical Lead,Hubli,balanced,SK008|SK006|SK004|SK024,2016-01-16
+EMP00368,Holly Farmer,3,Mid,Senior Software Engineer,Pune,balanced,SK013|SK002|SK025,2023-02-21
+EMP00369,Renee Bruce,8,Senior,Solutions Architect,Chennai,balanced,SK015|SK021|SK006|SK019|SK017,2018-05-26
+EMP00370,Sabrina Austin,9,Senior,Senior ML Engineer,Bengaluru,balanced,SK004|SK022|SK017|SK011|SK018|SK007,2017-05-03
+EMP00371,Allison Hickman,12,Senior,Senior ML Engineer,Bengaluru,modern,SK008|SK020|SK011|SK001|SK003,2014-06-17
+EMP00372,Debra White,5,Mid,Systems Analyst,Noida,balanced,SK004|SK025|SK014,2021-06-05
+EMP00373,Ellen Morgan,3,Mid,Senior Software Engineer,Noida,balanced,SK002|SK008|SK021|SK012,2022-11-30
+EMP00374,Sergio Knight,2,Junior,Business Analyst,Noida,modern,SK003|SK007,2023-10-28
+EMP00375,Charles Schultz,7,Senior,Technical Lead,Pune,legacy,SK024|SK014|SK026|SK010,2018-07-01
+EMP00376,Paul Lewis,5,Mid,ML Engineer,Mysuru,legacy,SK020|SK015|SK019|SK021|SK005,2021-01-17
+EMP00377,Glen Wood,1,Junior,QA Engineer,Bengaluru,legacy,SK025|SK026|SK019,2024-10-15
+EMP00378,Paula Bradley,4,Mid,Systems Analyst,Bengaluru,balanced,SK019|SK007|SK017|SK018,2021-12-15
+EMP00379,Anthony Moore,15,Senior,Solutions Architect,Noida,legacy,SK019|SK001|SK017|SK025|SK011,2011-01-03
+EMP00380,Megan Nelson,1,Junior,QA Engineer,Bengaluru,modern,SK017|SK012|SK002,2025-03-10
+EMP00381,Karla Ramos,3,Mid,ML Engineer,Pune,balanced,SK018|SK004|SK008,2022-10-15
+EMP00382,Paul Wilson,15,Senior,Solutions Architect,Mysuru,legacy,SK003|SK023|SK018|SK026|SK020,2010-11-29
+EMP00383,Douglas Gregory,6,Mid,Data Engineer,Chennai,modern,SK009|SK006|SK011,2020-02-27
+EMP00384,Mr. Andrew Foster,10,Senior,Senior ML Engineer,Mysuru,legacy,SK006|SK020|SK013|SK003|SK011,2015-07-03
+EMP00385,Aimee Turner,7,Senior,Project Manager,Hubli,legacy,SK021|SK019|SK020|SK024,2019-03-04
+EMP00386,Chad Scott,3,Mid,ML Engineer,Chennai,legacy,SK024|SK018|SK023|SK025|SK019,2023-03-03
+EMP00387,Adam Burgess,6,Mid,ML Engineer,Noida,modern,SK010|SK001|SK006,2019-09-23
+EMP00388,James Padilla,10,Senior,Project Manager,Pune,balanced,SK022|SK009|SK019|SK020,2016-06-17
+EMP00389,Sandra Drake,2,Junior,Software Engineer,Noida,balanced,SK002|SK008,2023-06-20
+EMP00390,Scott Williams,1,Junior,Software Engineer,Pune,balanced,SK014|SK016|SK002,2024-07-28
+EMP00391,Thomas Atkins,1,Junior,QA Engineer,Hyderabad,modern,SK004|SK001|SK007,2024-12-22
+EMP00392,Laura Mckinney,1,Junior,QA Engineer,Hubli,legacy,SK013|SK022|SK023,2024-07-11
+EMP00393,Brian Smith,6,Mid,ML Engineer,Pune,modern,SK012|SK015|SK003|SK006,2020-05-04
+EMP00394,Robert Montgomery,9,Senior,Technical Lead,Chennai,modern,SK012|SK009|SK003|SK006|SK007|SK001,2017-01-10
+EMP00395,Tamara Davis,8,Senior,Project Manager,Hyderabad,modern,SK010|SK008|SK006|SK023,2018-03-02
+EMP00396,Dana Chapman,7,Senior,Solutions Architect,Hyderabad,balanced,SK021|SK019|SK005|SK026,2019-03-25
+EMP00397,Jennifer Collins,2,Junior,QA Engineer,Noida,balanced,SK013|SK024,2024-01-04
+EMP00398,Gary Jackson,10,Senior,Project Manager,Pune,modern,SK015|SK004|SK006|SK025,2016-06-18
+EMP00399,Ashley Hicks,1,Junior,QA Engineer,Hubli,balanced,SK015|SK025,2025-04-15
+EMP00400,Hannah Luna,3,Mid,Systems Analyst,Hubli,modern,SK013|SK012|SK006|SK001,2023-04-03
+EMP00401,Robin Young,7,Senior,Technical Lead,Hubli,legacy,SK006|SK020|SK022|SK019|SK018,2018-09-11
+EMP00402,Craig Morrison,5,Mid,Data Engineer,Bengaluru,legacy,SK023|SK026|SK013,2021-05-08
+EMP00403,Mary Thompson,10,Senior,Senior ML Engineer,Mysuru,modern,SK005|SK019|SK011|SK014|SK004|SK010,2016-02-28
+EMP00404,Kathleen Webster,9,Senior,Solutions Architect,Chennai,balanced,SK007|SK005|SK001|SK011|SK014|SK025,2017-06-16
+EMP00405,Joann Glass,8,Senior,Senior ML Engineer,Mysuru,balanced,SK007|SK010|SK003|SK009|SK018,2018-05-05
+EMP00406,Madison Weber,4,Mid,ML Engineer,Mysuru,balanced,SK018|SK017|SK006,2022-02-12
+EMP00407,Lori Hernandez,8,Senior,Solutions Architect,Chennai,modern,SK023|SK021|SK001|SK007,2017-12-01
+EMP00408,Jeremy Turner,2,Junior,Software Engineer,Bengaluru,balanced,SK026|SK015|SK005,2023-11-13
+EMP00409,Anthony Romero,5,Mid,Systems Analyst,Hyderabad,modern,SK004|SK008|SK005|SK011|SK025,2020-08-29
+EMP00410,Jesse Brown,2,Junior,QA Engineer,Mysuru,legacy,SK017|SK006,2024-03-03
+EMP00411,Angela Lin,4,Mid,Data Engineer,Pune,balanced,SK007|SK001|SK026|SK018|SK019,2022-05-03
+EMP00412,Lisa Hunter,6,Mid,Systems Analyst,Chennai,modern,SK010|SK018|SK023|SK002|SK003,2020-04-02
+EMP00413,Julian Conner,2,Junior,Business Analyst,Hubli,legacy,SK012|SK021,2024-03-13
+EMP00414,Joanna Pacheco,4,Mid,Systems Analyst,Chennai,balanced,SK001|SK016|SK007,2022-01-07
+EMP00415,Erica Alvarez,12,Senior,Project Manager,Pune,balanced,SK022|SK005|SK018|SK026|SK003,2013-09-12
+EMP00416,Antonio Garcia,4,Mid,ML Engineer,Pune,legacy,SK005|SK024|SK025|SK020|SK017,2021-10-15
+EMP00417,Gwendolyn Klein,2,Junior,QA Engineer,Pune,balanced,SK007|SK019,2024-01-03
+EMP00418,Carrie Wright,7,Senior,Senior ML Engineer,Bengaluru,legacy,SK023|SK001|SK014|SK013,2019-04-13
+EMP00419,Jeffrey Mills,1,Junior,Business Analyst,Hyderabad,modern,SK008|SK012|SK010,2024-07-23
+EMP00420,Jake Campbell,6,Mid,Systems Analyst,Bengaluru,legacy,SK024|SK026|SK019|SK010,2019-06-28
+EMP00421,George Harper,8,Senior,Senior ML Engineer,Hyderabad,balanced,SK002|SK010|SK024|SK016|SK014|SK007,2017-09-10
+EMP00422,Maria Jones,12,Senior,Senior ML Engineer,Mysuru,balanced,SK021|SK012|SK017|SK007,2013-12-16
+EMP00423,Michael Mitchell,9,Senior,Solutions Architect,Pune,balanced,SK025|SK002|SK022|SK008|SK012,2016-12-18
+EMP00424,Mary Escobar,2,Junior,Business Analyst,Hubli,balanced,SK002|SK013|SK025,2023-11-25
+EMP00425,Felicia Aguilar,3,Mid,Systems Analyst,Bengaluru,balanced,SK018|SK007|SK005|SK002|SK008,2023-05-30
+EMP00426,Gregory Ponce,8,Senior,Senior ML Engineer,Pune,legacy,SK022|SK007|SK017|SK014|SK020|SK021,2017-09-17
+EMP00427,Jenna Larson,8,Senior,Senior ML Engineer,Pune,legacy,SK024|SK017|SK025|SK026|SK015,2017-06-24
+EMP00428,Emily Bennett,3,Mid,Data Engineer,Pune,modern,SK021|SK002|SK016,2023-05-12
+EMP00429,Robin Santiago,2,Junior,Software Engineer,Mysuru,legacy,SK025|SK017|SK019,2023-08-11
+EMP00430,Nancy Jennings,1,Junior,Business Analyst,Hyderabad,modern,SK011|SK003,2025-05-04
+EMP00431,Maria Henderson,4,Mid,Systems Analyst,Bengaluru,balanced,SK020|SK023|SK014|SK021|SK008,2021-10-17
+EMP00432,Jack White,1,Junior,Software Engineer,Hubli,balanced,SK020|SK023,2025-02-17
+EMP00433,Travis Tucker,3,Mid,Systems Analyst,Mysuru,modern,SK009|SK010|SK004|SK001|SK007,2023-01-24
+EMP00434,Chad Jones,3,Mid,Data Engineer,Mysuru,legacy,SK021|SK020|SK018|SK019,2023-06-01
+EMP00435,Ashley Wise,7,Senior,Solutions Architect,Bengaluru,legacy,SK012|SK017|SK020|SK021|SK002|SK026,2019-05-04
+EMP00436,Sophia Johnson,6,Mid,Senior Software Engineer,Hubli,modern,SK003|SK011|SK004,2019-07-31
+EMP00437,Ralph Anderson,8,Senior,Project Manager,Chennai,modern,SK008|SK007|SK001|SK014|SK002|SK011,2018-02-24
+EMP00438,Christopher Guerra,2,Junior,QA Engineer,Chennai,modern,SK001|SK012|SK009,2023-08-03
+EMP00439,Rhonda Martin,5,Mid,Systems Analyst,Hyderabad,legacy,SK019|SK017|SK024|SK009,2020-09-22
+EMP00440,Jason Rhodes,5,Mid,Senior Software Engineer,Pune,balanced,SK017|SK001|SK008,2020-12-08
+EMP00441,Jeremy Mitchell,1,Junior,QA Engineer,Bengaluru,balanced,SK005|SK020|SK023,2025-02-23
+EMP00442,Joann Ferguson,7,Senior,Technical Lead,Chennai,balanced,SK014|SK026|SK007|SK025,2018-10-30
+EMP00443,Robert Harrison,3,Mid,ML Engineer,Bengaluru,modern,SK012|SK010|SK011|SK006|SK001,2023-03-05
+EMP00444,Holly Valentine,12,Senior,Technical Lead,Hyderabad,modern,SK011|SK008|SK001|SK014|SK012,2013-11-27
+EMP00445,Mrs. Diane Reyes,1,Junior,Software Engineer,Noida,legacy,SK021|SK023|SK024,2024-08-09
+EMP00446,Tracy Montoya,8,Senior,Project Manager,Bengaluru,balanced,SK017|SK020|SK005|SK006|SK024|SK025,2017-11-18
+EMP00447,Brenda Wright,6,Mid,Data Engineer,Bengaluru,balanced,SK024|SK016|SK017,2019-07-24
+EMP00448,Shelly Spencer,5,Mid,ML Engineer,Hubli,balanced,SK011|SK016|SK005,2020-10-26
+EMP00449,Ryan Rosales,2,Junior,Business Analyst,Noida,legacy,SK023|SK020|SK021,2023-12-24
+EMP00450,Phillip Nelson,4,Mid,Data Engineer,Noida,balanced,SK025|SK012|SK015|SK014,2021-12-07
+EMP00451,Brittany Kim,12,Senior,Solutions Architect,Chennai,modern,SK009|SK016|SK008|SK005|SK011,2013-09-17
+EMP00452,Courtney Hayes,1,Junior,QA Engineer,Pune,legacy,SK023|SK010,2024-07-14
+EMP00453,Alexander Brown,8,Senior,Solutions Architect,Pune,balanced,SK001|SK007|SK023|SK008,2018-06-16
+EMP00454,Cynthia Vang,6,Mid,Senior Software Engineer,Hubli,balanced,SK009|SK024|SK023|SK026,2019-11-03
+EMP00455,Alfred Galvan,1,Junior,Business Analyst,Bengaluru,modern,SK009|SK002|SK026,2024-08-24
+EMP00456,Marie Moody,12,Senior,Senior ML Engineer,Mysuru,legacy,SK025|SK026|SK014|SK003|SK018|SK008,2013-12-17
+EMP00457,Dustin Gallegos,9,Senior,Senior ML Engineer,Pune,balanced,SK009|SK018|SK007|SK001|SK020,2017-02-27
+EMP00458,Brenda Thornton,7,Senior,Technical Lead,Hyderabad,legacy,SK021|SK020|SK025|SK026|SK023|SK017,2019-04-08
+EMP00459,Aaron Miller,2,Junior,Software Engineer,Hyderabad,modern,SK010|SK022,2024-03-01
+EMP00460,Ruben Dunn,4,Mid,Senior Software Engineer,Hyderabad,balanced,SK013|SK012|SK023,2022-01-01
+EMP00461,Kelsey Rodriguez,7,Senior,Technical Lead,Chennai,balanced,SK025|SK022|SK010|SK023,2019-04-07
+EMP00462,Eric Williams,2,Junior,QA Engineer,Mysuru,modern,SK010|SK025,2023-12-20
+EMP00463,Riley Bryant,3,Mid,ML Engineer,Pune,balanced,SK022|SK011|SK006|SK002|SK016,2022-11-23
+EMP00464,Taylor Carlson,9,Senior,Technical Lead,Hyderabad,modern,SK011|SK001|SK003|SK008|SK012,2017-01-06
+EMP00465,Jose Allen,5,Mid,Systems Analyst,Mysuru,balanced,SK004|SK015|SK008|SK024,2021-05-25
+EMP00466,Jeffrey Mendez,8,Senior,Project Manager,Mysuru,modern,SK001|SK007|SK002|SK010|SK019|SK012,2018-06-14
+EMP00467,Jason Beck,5,Mid,ML Engineer,Bengaluru,legacy,SK012|SK023|SK017|SK024|SK026,2020-11-20
+EMP00468,William Jones,2,Junior,Business Analyst,Hyderabad,balanced,SK026|SK013,2024-03-16
+EMP00469,Katie Mcneil,8,Senior,Project Manager,Noida,modern,SK002|SK025|SK015|SK017|SK023,2018-06-10
+EMP00470,Jeanette Harrison,8,Senior,Senior ML Engineer,Chennai,modern,SK004|SK008|SK005|SK002|SK003|SK025,2018-02-15
+EMP00471,Veronica King,2,Junior,Software Engineer,Hubli,balanced,SK008|SK021|SK009,2024-03-18
+EMP00472,Richard Cooper,2,Junior,Software Engineer,Mysuru,legacy,SK018|SK017|SK026,2023-09-11
+EMP00473,Lori Ingram,9,Senior,Senior ML Engineer,Pune,legacy,SK005|SK026|SK016|SK006|SK024|SK022,2016-08-23
+EMP00474,Evelyn Williams,9,Senior,Senior ML Engineer,Bengaluru,balanced,SK021|SK008|SK009|SK001,2016-08-09
+EMP00475,Robin Thompson,5,Mid,Senior Software Engineer,Hyderabad,balanced,SK026|SK011|SK019,2020-12-21
+EMP00476,Julie Dominguez,4,Mid,Systems Analyst,Hubli,modern,SK006|SK009|SK026,2022-03-06
+EMP00477,Robin Brown,3,Mid,Systems Analyst,Chennai,modern,SK009|SK012|SK023|SK001|SK007,2022-12-01
+EMP00478,Judith Carter,5,Mid,Senior Software Engineer,Chennai,legacy,SK018|SK025|SK017|SK019,2020-07-10
+EMP00479,Curtis Williams,5,Mid,Systems Analyst,Mysuru,legacy,SK024|SK020|SK023,2020-12-14
+EMP00480,Kaylee Hays,5,Mid,ML Engineer,Pune,balanced,SK026|SK025|SK020|SK008|SK004,2021-02-20
+EMP00481,Dawn Mullins,2,Junior,Business Analyst,Hubli,legacy,SK019|SK018|SK025,2024-03-15
+EMP00482,Howard Norman,12,Senior,Solutions Architect,Chennai,balanced,SK004|SK010|SK021|SK003|SK015|SK023,2013-10-10
+EMP00483,Evelyn Martinez,3,Mid,Senior Software Engineer,Hubli,modern,SK004|SK009|SK010,2023-06-07
+EMP00484,Steve Paul,6,Mid,Senior Software Engineer,Chennai,legacy,SK021|SK023|SK009|SK019,2019-09-21
+EMP00485,Jasmine Beltran,3,Mid,Systems Analyst,Hubli,legacy,SK026|SK021|SK025|SK024,2022-09-24
+EMP00486,Jonathan Glass MD,5,Mid,Systems Analyst,Bengaluru,legacy,SK022|SK021|SK023,2020-09-07
+EMP00487,Monica Miller,15,Senior,Technical Lead,Hyderabad,balanced,SK022|SK005|SK001|SK006|SK009,2011-02-27
+EMP00488,Samantha Gardner,7,Senior,Technical Lead,Noida,legacy,SK007|SK021|SK016|SK024|SK025,2019-06-20
+EMP00489,Bobby Guerrero,9,Senior,Project Manager,Hubli,balanced,SK007|SK002|SK019|SK003|SK016|SK008,2016-12-13
+EMP00490,Lance Simmons,7,Senior,Technical Lead,Noida,legacy,SK018|SK023|SK008|SK014|SK022|SK020,2019-04-26
+EMP00491,Heather Williams,4,Mid,Data Engineer,Chennai,modern,SK012|SK007|SK002|SK005,2022-02-01
+EMP00492,Heather Bolton,3,Mid,ML Engineer,Pune,legacy,SK022|SK026|SK015,2022-09-20
+EMP00493,William Gould,7,Senior,Senior ML Engineer,Hubli,modern,SK010|SK008|SK006|SK021|SK005,2018-09-25
+EMP00494,Mark Cox,1,Junior,QA Engineer,Mysuru,balanced,SK010|SK012|SK021,2024-10-10
+EMP00495,Meghan Cisneros,3,Mid,ML Engineer,Bengaluru,legacy,SK005|SK026|SK020|SK018|SK011,2023-02-03
+EMP00496,Lawrence Harrington,2,Junior,QA Engineer,Pune,balanced,SK004|SK026|SK012,2023-09-03
+EMP00497,Austin Osborne,2,Junior,QA Engineer,Pune,balanced,SK018|SK020|SK014,2023-08-01
+EMP00498,James Bradley,3,Mid,Systems Analyst,Mysuru,legacy,SK004|SK001|SK012|SK022|SK018,2023-01-09
+EMP00499,Meghan Rush,10,Senior,Technical Lead,Noida,legacy,SK025|SK017|SK022|SK016|SK011,2016-01-15
+EMP00500,Phillip Berry,12,Senior,Senior ML Engineer,Pune,balanced,SK022|SK004|SK020|SK014,2013-09-01
+EMP00501,Jennifer Banks,7,Senior,Solutions Architect,Mysuru,modern,SK010|SK007|SK003|SK002|SK009,2019-02-28
+EMP00502,Brian Fitzgerald,1,Junior,QA Engineer,Pune,balanced,SK018|SK025|SK022,2024-11-17
+EMP00503,Mr. Justin Green III,5,Mid,ML Engineer,Noida,balanced,SK015|SK025|SK003|SK007|SK021,2020-10-26
+EMP00504,Zachary Mitchell,1,Junior,Business Analyst,Bengaluru,modern,SK025|SK004,2025-04-07
+EMP00505,Katherine Martinez,10,Senior,Solutions Architect,Bengaluru,balanced,SK001|SK018|SK014|SK003|SK005,2015-11-14
+EMP00506,Jodi Roach,15,Senior,Project Manager,Pune,modern,SK013|SK004|SK003|SK002,2010-07-13
+EMP00507,Brandon Fleming,7,Senior,Project Manager,Bengaluru,modern,SK026|SK009|SK003|SK011|SK020|SK012,2019-05-30
+EMP00508,Emma Reed,5,Mid,ML Engineer,Noida,legacy,SK009|SK003|SK020,2021-01-30
+EMP00509,Joshua Vance,1,Junior,Business Analyst,Noida,balanced,SK024|SK015,2025-06-05
+EMP00510,Michelle Ho,4,Mid,Senior Software Engineer,Mysuru,balanced,SK020|SK021|SK008,2022-01-08
+EMP00511,Rebecca Hicks,1,Junior,Business Analyst,Chennai,legacy,SK022|SK020,2025-05-24
+EMP00512,Curtis Taylor,12,Senior,Solutions Architect,Bengaluru,balanced,SK005|SK018|SK026|SK015|SK019,2014-06-09
+EMP00513,Allison Spencer,2,Junior,Software Engineer,Hubli,modern,SK010|SK023|SK011,2023-07-18
+EMP00514,Robert Arnold,7,Senior,Project Manager,Hubli,balanced,SK022|SK016|SK010|SK007|SK003|SK011,2019-01-31
+EMP00515,Angelica Parker,5,Mid,ML Engineer,Mysuru,modern,SK004|SK005|SK009|SK001,2020-12-12
+EMP00516,Dr. Kelly Hammond DVM,2,Junior,QA Engineer,Noida,modern,SK019|SK009|SK004,2023-09-13
+EMP00517,William Day,15,Senior,Technical Lead,Hyderabad,legacy,SK013|SK025|SK026|SK021|SK017|SK022,2011-01-28
+EMP00518,Michael Cooper,1,Junior,QA Engineer,Hubli,balanced,SK020|SK022,2024-12-28
+EMP00519,Penny Bowman,7,Senior,Senior ML Engineer,Pune,balanced,SK022|SK012|SK010|SK024|SK007,2019-01-26
+EMP00520,Vincent Reynolds,3,Mid,ML Engineer,Mysuru,balanced,SK009|SK015|SK002|SK008,2023-02-01
+EMP00521,Amy Martinez,7,Senior,Solutions Architect,Bengaluru,balanced,SK019|SK009|SK018|SK021|SK025|SK011,2018-10-17
+EMP00522,Christopher Morris,3,Mid,Senior Software Engineer,Mysuru,legacy,SK026|SK011|SK019|SK017|SK009,2022-11-30
+EMP00523,Hannah Everett,6,Mid,Data Engineer,Mysuru,balanced,SK013|SK024|SK021|SK004|SK015,2020-05-26
+EMP00524,Sarah King,9,Senior,Senior ML Engineer,Pune,modern,SK007|SK002|SK001|SK011|SK010,2016-11-07
+EMP00525,Krista Martinez,1,Junior,Business Analyst,Bengaluru,modern,SK016|SK025,2024-11-22
+EMP00526,Joseph Shaw,2,Junior,Business Analyst,Chennai,modern,SK001|SK022|SK004,2023-09-21
+EMP00527,Todd Moore,6,Mid,Senior Software Engineer,Hyderabad,legacy,SK023|SK026|SK017|SK011,2019-08-27
+EMP00528,Michelle Jacobs,6,Mid,Senior Software Engineer,Chennai,balanced,SK001|SK002|SK014,2020-04-02
+EMP00529,Kristy Bryan,3,Mid,Senior Software Engineer,Mysuru,modern,SK008|SK004|SK002|SK007|SK003,2023-04-18
+EMP00530,Angel May,2,Junior,Software Engineer,Chennai,modern,SK002|SK003|SK001,2023-12-27
+EMP00531,Marilyn Wang,10,Senior,Project Manager,Hubli,modern,SK006|SK011|SK018|SK012|SK007,2015-09-20
+EMP00532,Mark Jimenez,2,Junior,Business Analyst,Pune,legacy,SK023|SK009,2024-01-23
+EMP00533,Donna Frye,8,Senior,Solutions Architect,Noida,balanced,SK011|SK018|SK002|SK001|SK019|SK007,2017-08-07
+EMP00534,Dr. Michael Evans,15,Senior,Solutions Architect,Chennai,modern,SK005|SK002|SK011|SK019|SK015,2011-01-26
+EMP00535,Anthony Gonzales,7,Senior,Senior ML Engineer,Chennai,balanced,SK005|SK020|SK010|SK018|SK008,2018-09-04
+EMP00536,Mr. Lawrence Edwards,1,Junior,Business Analyst,Hyderabad,modern,SK026|SK025,2025-01-11
+EMP00537,Morgan Valencia,7,Senior,Solutions Architect,Hyderabad,balanced,SK017|SK026|SK020|SK012,2019-02-03
+EMP00538,Bianca Wood,4,Mid,Data Engineer,Noida,balanced,SK017|SK001|SK012,2022-03-24
+EMP00539,Emma Owens,9,Senior,Technical Lead,Pune,modern,SK010|SK009|SK004|SK008|SK012|SK016,2016-12-04
+EMP00540,David Davis,3,Mid,ML Engineer,Pune,modern,SK025|SK011|SK017|SK006|SK009,2022-08-19
+EMP00541,James Gilbert,7,Senior,Project Manager,Noida,balanced,SK008|SK020|SK006|SK019|SK007,2018-07-23
+EMP00542,Sean Moore,7,Senior,Technical Lead,Pune,modern,SK001|SK003|SK010|SK017|SK012,2019-01-10
+EMP00543,Kenneth Edwards,2,Junior,Business Analyst,Pune,legacy,SK017|SK019,2023-12-01
+EMP00544,Kathleen Robertson,6,Mid,ML Engineer,Noida,modern,SK001|SK010|SK007,2020-02-17
+EMP00545,Mr. Alexander Landry MD,8,Senior,Senior ML Engineer,Chennai,modern,SK011|SK024|SK001|SK020|SK009,2018-02-16
+EMP00546,Cindy Gomez,1,Junior,Business Analyst,Chennai,modern,SK002|SK010,2025-01-08
+EMP00547,Johnny Khan,12,Senior,Project Manager,Pune,modern,SK012|SK005|SK009|SK011|SK020,2013-11-17
+EMP00548,Julie Herrera,3,Mid,ML Engineer,Chennai,balanced,SK025|SK008|SK001,2023-02-17
+EMP00549,Jessica Khan,1,Junior,QA Engineer,Noida,balanced,SK017|SK016,2024-11-25
+EMP00550,Pamela Diaz,8,Senior,Senior ML Engineer,Mysuru,balanced,SK015|SK009|SK004|SK003,2018-01-03
+EMP00551,Kelly Lee,5,Mid,Data Engineer,Hubli,modern,SK020|SK010|SK005|SK021,2020-10-18
+EMP00552,Angel Gordon,7,Senior,Solutions Architect,Hyderabad,balanced,SK004|SK003|SK022|SK024,2018-11-21
+EMP00553,Diana Hays,6,Mid,ML Engineer,Bengaluru,balanced,SK022|SK010|SK018,2019-07-31
+EMP00554,Barbara Hester,4,Mid,Systems Analyst,Mysuru,balanced,SK013|SK004|SK003,2022-04-27
+EMP00555,Robert Morgan,4,Mid,ML Engineer,Mysuru,modern,SK002|SK020|SK008,2022-04-23
+EMP00556,Nicole Gonzalez,5,Mid,ML Engineer,Chennai,balanced,SK018|SK009|SK004,2021-02-09
+EMP00557,Kathryn Williams,8,Senior,Senior ML Engineer,Chennai,balanced,SK019|SK020|SK023|SK012,2018-03-11
+EMP00558,Gary Wells,1,Junior,Software Engineer,Hyderabad,modern,SK001|SK005,2025-04-28
+EMP00559,Larry Robertson,5,Mid,Systems Analyst,Noida,legacy,SK011|SK008|SK026,2020-10-23
+EMP00560,Louis Martin,3,Mid,Senior Software Engineer,Noida,balanced,SK015|SK003|SK002|SK016|SK014,2022-09-26
+EMP00561,Nancy Evans MD,6,Mid,ML Engineer,Bengaluru,legacy,SK020|SK016|SK018|SK021|SK022,2019-11-13
+EMP00562,Kim Erickson,10,Senior,Solutions Architect,Bengaluru,modern,SK020|SK002|SK021|SK026|SK011|SK012,2016-02-02
+EMP00563,Robert Richardson,3,Mid,Data Engineer,Chennai,balanced,SK020|SK025|SK026,2023-02-22
+EMP00564,Veronica Silva,3,Mid,Data Engineer,Bengaluru,balanced,SK025|SK018|SK008|SK010,2022-11-17
+EMP00565,Molly Watts,9,Senior,Solutions Architect,Noida,balanced,SK026|SK010|SK002|SK009|SK014,2016-07-22
+EMP00566,John Coffey,1,Junior,QA Engineer,Pune,legacy,SK019|SK017|SK018,2025-04-01
+EMP00567,Paula Lane,4,Mid,ML Engineer,Mysuru,balanced,SK011|SK018|SK012,2021-10-19
+EMP00568,Lauren Jackson,4,Mid,Senior Software Engineer,Noida,balanced,SK019|SK004|SK006|SK005|SK007,2021-08-18
+EMP00569,Lisa Randall,4,Mid,Systems Analyst,Noida,modern,SK007|SK003|SK012,2021-11-14
+EMP00570,Michael Johnson,2,Junior,Business Analyst,Noida,balanced,SK023|SK016,2023-10-10
+EMP00571,Ashley Smith,3,Mid,ML Engineer,Pune,balanced,SK018|SK016|SK004|SK005,2023-06-04
+EMP00572,Christian Vaughn,5,Mid,ML Engineer,Noida,balanced,SK016|SK003|SK025|SK020|SK022,2021-01-13
+EMP00573,Reginald Knapp,3,Mid,Senior Software Engineer,Hubli,balanced,SK022|SK021|SK008|SK025,2022-10-06
+EMP00574,Nancy Brown,3,Mid,Senior Software Engineer,Hyderabad,legacy,SK010|SK023|SK003|SK018,2023-03-11
+EMP00575,Daniel Nguyen,4,Mid,Systems Analyst,Hyderabad,legacy,SK022|SK019|SK024|SK026,2022-01-16
+EMP00576,Kelly Edwards,3,Mid,Senior Software Engineer,Chennai,modern,SK015|SK005|SK003|SK007,2022-12-22
+EMP00577,Thomas Peterson,1,Junior,Software Engineer,Noida,modern,SK010|SK020|SK006,2024-12-15
+EMP00578,Raymond Le,4,Mid,Senior Software Engineer,Chennai,modern,SK007|SK004|SK005|SK008|SK002,2021-12-30
+EMP00579,Melissa Bishop,12,Senior,Senior ML Engineer,Mysuru,legacy,SK021|SK018|SK026|SK020|SK009,2014-02-23
+EMP00580,David Grant,5,Mid,Systems Analyst,Bengaluru,modern,SK001|SK010|SK012|SK009,2020-07-25
+EMP00581,William Evans,5,Mid,Senior Software Engineer,Pune,modern,SK007|SK003|SK004|SK008,2021-06-14
+EMP00582,Daniel Bush,4,Mid,Senior Software Engineer,Pune,balanced,SK013|SK010|SK022|SK004,2021-12-23
+EMP00583,Gregory Peck,1,Junior,QA Engineer,Pune,balanced,SK014|SK026,2025-06-10
+EMP00584,Denise Martinez,5,Mid,ML Engineer,Hyderabad,modern,SK021|SK013|SK015,2020-09-15
+EMP00585,Jamie Baird,5,Mid,Data Engineer,Hubli,balanced,SK009|SK016|SK012,2020-08-18
+EMP00586,Tina Ballard,2,Junior,QA Engineer,Hubli,legacy,SK023|SK022,2023-09-14
+EMP00587,Dwayne Klein,15,Senior,Senior ML Engineer,Hyderabad,balanced,SK002|SK025|SK003|SK008|SK018|SK005,2011-03-23
+EMP00588,Jeremy Scott,7,Senior,Senior ML Engineer,Bengaluru,legacy,SK018|SK022|SK021|SK002|SK026|SK003,2019-06-15
+EMP00589,Dale Ryan,8,Senior,Solutions Architect,Hubli,balanced,SK007|SK003|SK005|SK021|SK018|SK015,2017-12-28
+EMP00590,Melissa Taylor,12,Senior,Senior ML Engineer,Chennai,balanced,SK017|SK022|SK009|SK018|SK026|SK019,2013-11-18
+EMP00591,Laurie Sanchez,4,Mid,Data Engineer,Hyderabad,balanced,SK016|SK001|SK006|SK022|SK008,2021-12-15
+EMP00592,Kiara Little,4,Mid,ML Engineer,Mysuru,modern,SK003|SK024|SK020|SK011|SK008,2021-08-30
+EMP00593,Jason Love,4,Mid,Systems Analyst,Chennai,balanced,SK002|SK017|SK020|SK026|SK001,2021-11-18
+EMP00594,Randy Smith,10,Senior,Project Manager,Mysuru,legacy,SK012|SK017|SK022|SK019,2015-07-05
+EMP00595,Tanya Russell,3,Mid,Senior Software Engineer,Noida,modern,SK004|SK011|SK005|SK001|SK018,2023-01-01
+EMP00596,Sherry Woods,5,Mid,ML Engineer,Pune,modern,SK011|SK009|SK014|SK012|SK010,2021-04-04
+EMP00597,Victor Morris,4,Mid,Data Engineer,Bengaluru,legacy,SK004|SK022|SK011,2022-04-23
+EMP00598,Susan Davis,1,Junior,QA Engineer,Pune,legacy,SK014|SK006|SK017,2024-08-01
+EMP00599,Kimberly Sharp,12,Senior,Project Manager,Mysuru,balanced,SK002|SK001|SK019|SK010|SK004|SK007,2014-06-21
+EMP00600,Susan Thompson,2,Junior,QA Engineer,Mysuru,balanced,SK004|SK016,2023-11-06
+EMP00601,Casey Gillespie,6,Mid,Systems Analyst,Chennai,balanced,SK020|SK024|SK015|SK005|SK007,2019-10-28
+EMP00602,Jennifer Simpson DVM,9,Senior,Project Manager,Hyderabad,modern,SK009|SK010|SK007|SK002|SK003,2017-06-11
+EMP00603,Tammy Mcdowell,5,Mid,ML Engineer,Noida,modern,SK007|SK015|SK001|SK011,2021-06-11
+EMP00604,Keith Rodriguez,3,Mid,ML Engineer,Bengaluru,legacy,SK002|SK009|SK025|SK019,2022-09-17
+EMP00605,Mrs. Virginia Daniels,9,Senior,Senior ML Engineer,Chennai,balanced,SK025|SK026|SK019|SK008|SK023|SK002,2016-10-08
+EMP00606,Todd Rosales MD,10,Senior,Project Manager,Hubli,modern,SK020|SK001|SK004|SK007,2016-05-15
+EMP00607,Brian Martin,2,Junior,QA Engineer,Mysuru,modern,SK008|SK011|SK022,2024-03-08
+EMP00608,David Lopez,15,Senior,Project Manager,Bengaluru,modern,SK006|SK019|SK003|SK001|SK004|SK025,2011-02-21
+EMP00609,Rachel Bradley,6,Mid,ML Engineer,Pune,balanced,SK010|SK004|SK006|SK009,2019-07-31
+EMP00610,Casey Chase,2,Junior,Software Engineer,Hubli,modern,SK009|SK022,2023-11-16
+EMP00611,Samantha Robertson,9,Senior,Technical Lead,Hubli,legacy,SK025|SK024|SK011|SK026|SK018|SK017,2017-01-28
+EMP00612,Michael Lopez,5,Mid,ML Engineer,Noida,modern,SK005|SK015|SK019|SK018|SK017,2021-05-17
+EMP00613,Franklin Wright,3,Mid,Systems Analyst,Noida,balanced,SK025|SK018|SK009|SK014,2023-01-19
+EMP00614,David Molina,2,Junior,Software Engineer,Hubli,modern,SK005|SK014,2024-01-05
+EMP00615,Elizabeth Sharp,1,Junior,QA Engineer,Hyderabad,legacy,SK017|SK022,2024-11-09
+EMP00616,Matthew Schwartz,12,Senior,Senior ML Engineer,Hubli,legacy,SK017|SK025|SK008|SK022|SK023|SK011,2013-10-19
+EMP00617,Bryan Parker,3,Mid,Systems Analyst,Mysuru,balanced,SK013|SK023|SK010|SK005|SK022,2022-12-24
+EMP00618,Jonathan Jacobson,4,Mid,Data Engineer,Mysuru,balanced,SK016|SK012|SK022,2021-11-08
+EMP00619,Emily Wilson,12,Senior,Technical Lead,Mysuru,modern,SK017|SK011|SK006|SK019|SK012|SK002,2014-05-03
+EMP00620,Elizabeth Mendez,3,Mid,Senior Software Engineer,Pune,modern,SK024|SK011|SK010|SK005,2022-12-12
+EMP00621,Casey Hernandez,12,Senior,Solutions Architect,Bengaluru,modern,SK025|SK010|SK026|SK021,2013-09-26
+EMP00622,Lisa Perry,15,Senior,Project Manager,Mysuru,modern,SK009|SK003|SK008|SK001|SK004,2011-05-16
+EMP00623,Kaitlin Medina,1,Junior,Software Engineer,Bengaluru,modern,SK002|SK011,2025-04-24
+EMP00624,Colleen Wright,5,Mid,Systems Analyst,Pune,balanced,SK022|SK024|SK023,2021-02-12
+EMP00625,Shelley Miller,4,Mid,ML Engineer,Hyderabad,modern,SK001|SK022|SK011,2021-07-05
+EMP00626,Michael Miller,6,Mid,Data Engineer,Hyderabad,legacy,SK015|SK001|SK018|SK020|SK019,2019-12-18
+EMP00627,Amy Kelley,1,Junior,Business Analyst,Pune,legacy,SK024|SK023,2025-01-13
+EMP00628,Laura Hernandez,2,Junior,Business Analyst,Hubli,legacy,SK023|SK013|SK022,2024-02-08
+EMP00629,Joseph Wilson,5,Mid,Systems Analyst,Noida,modern,SK012|SK004|SK022|SK002,2020-09-03
+EMP00630,Kevin Davis,1,Junior,Software Engineer,Pune,modern,SK010|SK002|SK008,2025-02-26
+EMP00631,Rhonda Chavez,4,Mid,ML Engineer,Noida,legacy,SK025|SK023|SK022|SK002|SK020,2021-12-06
+EMP00632,Joyce Brown,15,Senior,Project Manager,Mysuru,legacy,SK023|SK014|SK020|SK026|SK025,2010-06-25
+EMP00633,Robert Cummings,3,Mid,Systems Analyst,Noida,modern,SK001|SK007|SK004|SK015,2023-02-12
+EMP00634,Robert Reese,10,Senior,Technical Lead,Chennai,modern,SK005|SK004|SK002|SK003|SK009|SK008,2016-03-14
+EMP00635,Amber Cooper,4,Mid,Senior Software Engineer,Hyderabad,legacy,SK025|SK019|SK017,2022-03-14
+EMP00636,Zachary Michael,9,Senior,Senior ML Engineer,Noida,modern,SK005|SK003|SK013|SK002|SK011,2017-04-25
+EMP00637,Timothy Johnson,1,Junior,Business Analyst,Mysuru,legacy,SK003|SK025,2024-12-03
+EMP00638,Randy Cannon,1,Junior,Business Analyst,Chennai,balanced,SK020|SK004,2025-04-19
+EMP00639,Maria Fisher,5,Mid,Systems Analyst,Bengaluru,balanced,SK021|SK025|SK024|SK022,2021-05-28
+EMP00640,Janet Kane DVM,15,Senior,Solutions Architect,Bengaluru,modern,SK005|SK006|SK007|SK009,2010-07-31
+EMP00641,Michael Stanley,6,Mid,Systems Analyst,Hubli,modern,SK005|SK008|SK014|SK012,2019-07-16
+EMP00642,Martha Bailey,7,Senior,Technical Lead,Chennai,balanced,SK003|SK010|SK011|SK002|SK008|SK025,2019-05-08
+EMP00643,Joshua Rice,15,Senior,Project Manager,Mysuru,modern,SK003|SK007|SK023|SK013,2011-03-18
+EMP00644,Courtney Smith,5,Mid,Systems Analyst,Hubli,balanced,SK021|SK009|SK017|SK005,2021-05-17
+EMP00645,Edwin Nunez,4,Mid,ML Engineer,Noida,legacy,SK025|SK021|SK024,2022-03-07
+EMP00646,Kim Morrow,3,Mid,Systems Analyst,Bengaluru,balanced,SK025|SK017|SK022|SK018,2023-02-14
+EMP00647,Gregory Hill,3,Mid,Data Engineer,Chennai,modern,SK004|SK005|SK010,2023-04-25
+EMP00648,Molly Rodriguez,6,Mid,Senior Software Engineer,Hubli,legacy,SK022|SK011|SK019|SK018|SK020,2020-06-07
+EMP00649,Jennifer Miranda,3,Mid,Systems Analyst,Hubli,balanced,SK002|SK015|SK023|SK019|SK010,2023-02-23
+EMP00650,Alexis Harris,4,Mid,Data Engineer,Mysuru,balanced,SK006|SK015|SK007,2021-08-11
+EMP00651,Andrew Harper,1,Junior,Software Engineer,Mysuru,modern,SK015|SK006,2024-09-19
+EMP00652,Amber Yang,2,Junior,QA Engineer,Mysuru,balanced,SK019|SK007|SK012,2024-01-19
+EMP00653,David Robinson,1,Junior,QA Engineer,Mysuru,modern,SK003|SK021,2025-03-29
+EMP00654,Amy Gordon,2,Junior,QA Engineer,Bengaluru,legacy,SK017|SK026|SK023,2024-05-03
+EMP00655,Robert Dennis,10,Senior,Senior ML Engineer,Bengaluru,modern,SK008|SK004|SK019|SK002,2016-05-26
+EMP00656,Kyle Chambers,4,Mid,Senior Software Engineer,Pune,modern,SK010|SK016|SK003|SK021,2021-09-18
+EMP00657,Eric Thomas,6,Mid,ML Engineer,Bengaluru,balanced,SK009|SK019|SK021,2020-01-18
+EMP00658,Connie Turner,4,Mid,Senior Software Engineer,Hyderabad,balanced,SK009|SK015|SK002,2021-08-14
+EMP00659,Travis Hobbs,4,Mid,Data Engineer,Chennai,modern,SK001|SK007|SK010,2021-07-07
+EMP00660,Lori Simmons,6,Mid,ML Engineer,Pune,balanced,SK015|SK006|SK008|SK020|SK013,2020-04-18
+EMP00661,William David DDS,1,Junior,Business Analyst,Mysuru,balanced,SK025|SK012|SK013,2025-01-30
+EMP00662,Emma Butler,15,Senior,Solutions Architect,Hubli,balanced,SK007|SK012|SK004|SK006,2011-04-18
+EMP00663,James Webster,1,Junior,Business Analyst,Mysuru,modern,SK011|SK017,2025-02-09
+EMP00664,Samuel Turner,2,Junior,Software Engineer,Chennai,legacy,SK019|SK022,2024-03-11
+EMP00665,Renee Melendez,4,Mid,Senior Software Engineer,Noida,modern,SK011|SK002|SK020|SK006|SK016,2021-11-10
+EMP00666,Tracy Grant,3,Mid,ML Engineer,Hubli,balanced,SK016|SK006|SK023|SK003|SK010,2023-04-12
+EMP00667,David Harris,2,Junior,QA Engineer,Pune,legacy,SK023|SK024|SK007,2024-03-18
+EMP00668,Tammy Boone,3,Mid,Senior Software Engineer,Mysuru,modern,SK005|SK009|SK018|SK011,2023-05-16
+EMP00669,Nathaniel Lee,3,Mid,Systems Analyst,Hyderabad,balanced,SK025|SK014|SK007|SK002|SK019,2023-01-26
+EMP00670,Michael Morrison,9,Senior,Solutions Architect,Chennai,balanced,SK015|SK016|SK005|SK010|SK017|SK026,2016-12-06
+EMP00671,Chelsea Gill,2,Junior,Software Engineer,Noida,legacy,SK021|SK011|SK022,2024-01-31
+EMP00672,Kristin Mendoza,5,Mid,Systems Analyst,Bengaluru,modern,SK009|SK004|SK014|SK003,2020-06-23
+EMP00673,Felicia Krueger,4,Mid,Systems Analyst,Hubli,legacy,SK023|SK024|SK008|SK004,2022-05-31
+EMP00674,Timothy Hayden,12,Senior,Project Manager,Bengaluru,modern,SK012|SK016|SK018|SK005|SK017|SK001,2014-01-28
+EMP00675,Zachary Mendoza,6,Mid,ML Engineer,Pune,balanced,SK003|SK026|SK014|SK016,2020-05-12
+EMP00676,Larry Harris,5,Mid,Data Engineer,Bengaluru,legacy,SK023|SK019|SK024|SK007|SK015,2020-12-22
+EMP00677,Kristen Rowe,4,Mid,ML Engineer,Bengaluru,balanced,SK004|SK001|SK002|SK022,2021-09-06
+EMP00678,Joseph Howard,1,Junior,Business Analyst,Hyderabad,legacy,SK015|SK006|SK018,2025-03-27
+EMP00679,Jose Crawford,4,Mid,Senior Software Engineer,Bengaluru,modern,SK011|SK006|SK010|SK019,2021-08-15
+EMP00680,William Harrison,1,Junior,QA Engineer,Hyderabad,legacy,SK025|SK020|SK014,2025-03-22
+EMP00681,Suzanne Wood,3,Mid,Data Engineer,Noida,balanced,SK008|SK006|SK007|SK005|SK003,2023-05-17
+EMP00682,Justin Walker,1,Junior,Business Analyst,Hyderabad,modern,SK009|SK003|SK001,2024-07-15
+EMP00683,Dean Donovan,3,Mid,Senior Software Engineer,Noida,balanced,SK003|SK020|SK024|SK014,2022-10-05
+EMP00684,Jennifer Hernandez,1,Junior,Business Analyst,Hyderabad,legacy,SK021|SK008,2024-10-08
+EMP00685,James Whitaker,8,Senior,Senior ML Engineer,Noida,legacy,SK022|SK025|SK021|SK008|SK017|SK012,2018-02-14
+EMP00686,Mr. Michael Scott PhD,7,Senior,Senior ML Engineer,Pune,modern,SK003|SK012|SK008|SK004|SK010|SK001,2018-11-12
+EMP00687,Maria Henry,4,Mid,Data Engineer,Noida,modern,SK026|SK004|SK003,2022-01-27
+EMP00688,Robert Jackson,3,Mid,Senior Software Engineer,Pune,balanced,SK015|SK001|SK012|SK022|SK024,2022-11-12
+EMP00689,Katherine Stark,5,Mid,Data Engineer,Hyderabad,legacy,SK018|SK024|SK008,2020-11-06
+EMP00690,Maria Brown,8,Senior,Project Manager,Noida,balanced,SK022|SK003|SK012|SK017|SK006,2018-03-08
+EMP00691,Ryan Landry,8,Senior,Senior ML Engineer,Bengaluru,modern,SK014|SK012|SK001|SK007|SK005|SK026,2017-07-20
+EMP00692,Pamela Gutierrez,7,Senior,Technical Lead,Hyderabad,balanced,SK007|SK017|SK023|SK020,2019-04-19
+EMP00693,Crystal Mann,7,Senior,Technical Lead,Pune,legacy,SK018|SK021|SK019|SK023|SK013,2019-04-06
+EMP00694,Jonathan Brooks,2,Junior,Software Engineer,Hubli,balanced,SK005|SK010|SK011,2023-07-08
+EMP00695,Mary Jensen,10,Senior,Project Manager,Bengaluru,legacy,SK009|SK021|SK022|SK018|SK017,2015-12-05
+EMP00696,Mr. Aaron Arnold,3,Mid,Data Engineer,Pune,balanced,SK018|SK001|SK010,2023-01-03
+EMP00697,Joseph Hill,3,Mid,Senior Software Engineer,Hyderabad,balanced,SK024|SK019|SK016|SK021|SK023,2022-12-07
+EMP00698,Alicia Li,7,Senior,Solutions Architect,Hubli,legacy,SK026|SK018|SK007|SK002|SK023,2019-05-08
+EMP00699,Renee Browning,2,Junior,Software Engineer,Mysuru,modern,SK001|SK016,2024-06-03
+EMP00700,Brent Hernandez,5,Mid,Senior Software Engineer,Chennai,balanced,SK022|SK017|SK016|SK005|SK014,2020-08-16
+EMP00701,Joseph Ochoa,15,Senior,Solutions Architect,Noida,modern,SK002|SK006|SK015|SK001|SK008|SK003,2011-06-13
+EMP00702,James Watson,7,Senior,Project Manager,Hubli,balanced,SK004|SK025|SK017|SK020|SK003|SK002,2019-04-24
+EMP00703,Karl Branch,2,Junior,Business Analyst,Bengaluru,balanced,SK025|SK012,2024-01-24
+EMP00704,Michael Abbott,8,Senior,Solutions Architect,Hubli,modern,SK010|SK009|SK014|SK026,2018-03-05
+EMP00705,Shannon Malone,4,Mid,Data Engineer,Hubli,legacy,SK023|SK019|SK026|SK004,2021-10-25
+EMP00706,James Tran,5,Mid,Senior Software Engineer,Mysuru,modern,SK024|SK003|SK009|SK005,2021-03-19
+EMP00707,Adam Jackson,9,Senior,Project Manager,Chennai,legacy,SK004|SK021|SK005|SK009,2017-02-14
+EMP00708,Mr. Richard Knight PhD,3,Mid,Senior Software Engineer,Bengaluru,modern,SK005|SK002|SK025,2022-12-04
+EMP00709,Joseph Williams,3,Mid,ML Engineer,Noida,modern,SK014|SK010|SK023,2023-02-22
+EMP00710,Sean Clay,2,Junior,QA Engineer,Chennai,legacy,SK024|SK002|SK020,2024-04-18
+EMP00711,Anthony Jones,7,Senior,Technical Lead,Chennai,modern,SK018|SK024|SK004|SK019,2018-12-06
+EMP00712,Stephanie Elliott,1,Junior,Business Analyst,Chennai,balanced,SK006|SK015|SK019,2025-01-24
+EMP00713,Timothy Edwards,1,Junior,Software Engineer,Bengaluru,balanced,SK010|SK021,2025-03-12
+EMP00714,Laurie Goodwin,1,Junior,QA Engineer,Hubli,modern,SK007|SK013,2024-12-13
+EMP00715,Jennifer Jones,9,Senior,Senior ML Engineer,Bengaluru,legacy,SK017|SK022|SK011|SK023|SK014,2016-08-10
+EMP00716,David Davenport,2,Junior,Software Engineer,Pune,balanced,SK012|SK026,2024-05-23
+EMP00717,Steven Rivera,7,Senior,Project Manager,Chennai,modern,SK009|SK018|SK010|SK012|SK006|SK002,2019-05-14
+EMP00718,Brenda Hinton,3,Mid,Systems Analyst,Chennai,legacy,SK014|SK026|SK013,2022-11-12
+EMP00719,Kathryn Mccann,7,Senior,Solutions Architect,Bengaluru,legacy,SK019|SK017|SK020|SK022|SK016|SK023,2019-01-06
+EMP00720,Jeffrey Roberson,1,Junior,Business Analyst,Bengaluru,balanced,SK010|SK009,2025-01-30
+EMP00721,Randy Friedman,12,Senior,Senior ML Engineer,Chennai,modern,SK012|SK008|SK013|SK009|SK010,2014-06-05
+EMP00722,Raymond Johnson,3,Mid,ML Engineer,Hyderabad,modern,SK017|SK006|SK008|SK001,2023-05-06
+EMP00723,Willie Henry,8,Senior,Solutions Architect,Pune,balanced,SK018|SK022|SK011|SK009|SK025,2017-07-14
+EMP00724,Todd Reynolds,12,Senior,Solutions Architect,Chennai,modern,SK008|SK004|SK019|SK002|SK012|SK006,2013-11-23
+EMP00725,Mary Miller,4,Mid,ML Engineer,Mysuru,modern,SK008|SK003|SK018|SK019,2021-10-04
+EMP00726,Rebecca Marquez,4,Mid,Senior Software Engineer,Pune,modern,SK005|SK008|SK014,2021-07-31
+EMP00727,Christian Dawson,8,Senior,Solutions Architect,Pune,balanced,SK018|SK009|SK002|SK019,2017-10-15
+EMP00728,Nancy Stewart,8,Senior,Project Manager,Pune,modern,SK011|SK012|SK005|SK015|SK007,2017-11-17
+EMP00729,Aaron Parker,10,Senior,Senior ML Engineer,Mysuru,legacy,SK013|SK022|SK021|SK025|SK009|SK023,2015-07-21
+EMP00730,Derrick Anderson,6,Mid,ML Engineer,Bengaluru,balanced,SK009|SK016|SK024|SK015|SK017,2020-01-10
+EMP00731,Jerry Peters,4,Mid,Senior Software Engineer,Noida,modern,SK008|SK005|SK003|SK006|SK004,2021-12-03
+EMP00732,Alexander Gomez,3,Mid,Senior Software Engineer,Bengaluru,legacy,SK022|SK006|SK023,2023-02-10
+EMP00733,Kyle Nguyen,10,Senior,Solutions Architect,Bengaluru,balanced,SK002|SK013|SK020|SK007,2016-02-28
+EMP00734,Edgar Hughes,5,Mid,Systems Analyst,Noida,legacy,SK005|SK025|SK019|SK017|SK015,2021-02-17
+EMP00735,Steven Stein,7,Senior,Senior ML Engineer,Hubli,modern,SK002|SK010|SK008|SK009|SK011,2018-08-10
+EMP00736,Laura Jackson,12,Senior,Technical Lead,Hubli,modern,SK012|SK010|SK005|SK003,2014-06-15
+EMP00737,Charles Turner,2,Junior,Business Analyst,Hubli,modern,SK006|SK015,2024-04-27
+EMP00738,Arthur Hamilton MD,9,Senior,Project Manager,Mysuru,balanced,SK015|SK025|SK023|SK005|SK012,2017-06-18
+EMP00739,Mr. David Wright,8,Senior,Technical Lead,Chennai,legacy,SK002|SK022|SK023|SK024,2017-11-10
+EMP00740,Linda Gonzalez,3,Mid,Systems Analyst,Noida,modern,SK015|SK011|SK002|SK010,2023-03-09
+EMP00741,Eric Rush,8,Senior,Solutions Architect,Noida,balanced,SK002|SK010|SK022|SK019|SK012|SK011,2017-12-15
+EMP00742,Manuel Brock,8,Senior,Technical Lead,Pune,balanced,SK009|SK014|SK002|SK026|SK010|SK013,2017-11-15
+EMP00743,George Ochoa,7,Senior,Project Manager,Pune,balanced,SK008|SK002|SK009|SK018,2019-01-28
+EMP00744,Valerie Taylor,1,Junior,Software Engineer,Hubli,modern,SK012|SK025,2024-11-23
+EMP00745,Travis Harris,4,Mid,Data Engineer,Hyderabad,legacy,SK023|SK020|SK021,2021-06-27
+EMP00746,Vincent Novak,9,Senior,Solutions Architect,Hyderabad,balanced,SK012|SK018|SK009|SK007|SK017|SK001,2016-10-16
+EMP00747,Michael Henry,1,Junior,Software Engineer,Pune,balanced,SK017|SK014|SK016,2025-03-17
+EMP00748,Dana Bennett,8,Senior,Project Manager,Bengaluru,balanced,SK023|SK005|SK011|SK025,2017-11-01
+EMP00749,Jenna Wilson,2,Junior,QA Engineer,Hubli,modern,SK009|SK015|SK006,2024-04-07
+EMP00750,Leslie Gardner,3,Mid,Data Engineer,Noida,modern,SK001|SK012|SK010|SK011|SK004,2023-01-07
+EMP00751,Krista Benton,3,Mid,ML Engineer,Noida,modern,SK011|SK018|SK024|SK010,2023-01-18
+EMP00752,Michael Gonzales,1,Junior,Business Analyst,Noida,balanced,SK009|SK021,2024-08-09
+EMP00753,Michael Fuentes,7,Senior,Technical Lead,Hubli,legacy,SK022|SK019|SK026|SK017|SK002|SK003,2018-10-27
+EMP00754,Jennifer Porter,6,Mid,Systems Analyst,Bengaluru,legacy,SK023|SK013|SK021|SK003|SK019,2020-05-27
+EMP00755,Dana Hopkins,2,Junior,Software Engineer,Pune,legacy,SK013|SK012,2024-04-21
+EMP00756,Rachel Jones,7,Senior,Project Manager,Pune,legacy,SK021|SK017|SK024|SK019|SK025,2018-07-31
+EMP00757,Karen Morales DDS,4,Mid,Systems Analyst,Bengaluru,modern,SK026|SK021|SK001|SK016,2022-05-12
+EMP00758,Melissa Stephens,12,Senior,Senior ML Engineer,Noida,legacy,SK012|SK026|SK021|SK013|SK020|SK022,2013-09-07
+EMP00759,Heather Woodard,7,Senior,Senior ML Engineer,Hubli,balanced,SK002|SK022|SK009|SK015,2019-04-02
+EMP00760,Margaret Miller,4,Mid,ML Engineer,Bengaluru,modern,SK007|SK008|SK012,2021-06-28
+EMP00761,Mary Kelly,1,Junior,Software Engineer,Mysuru,modern,SK004|SK003|SK002,2025-05-28
+EMP00762,Amanda Terrell,2,Junior,Business Analyst,Bengaluru,balanced,SK017|SK007|SK002,2024-03-26
+EMP00763,Jennifer Goodwin,4,Mid,Senior Software Engineer,Mysuru,modern,SK007|SK006|SK003|SK001|SK008,2021-07-02
+EMP00764,Jessica Smith,15,Senior,Senior ML Engineer,Chennai,modern,SK019|SK005|SK004|SK018|SK015|SK007,2011-05-25
+EMP00765,Jorge Stone,4,Mid,ML Engineer,Chennai,modern,SK009|SK002|SK007|SK023|SK024,2021-06-23
+EMP00766,Laura Griffin,8,Senior,Project Manager,Hyderabad,balanced,SK023|SK008|SK001|SK005,2018-01-29
+EMP00767,Raymond Chapman,3,Mid,Systems Analyst,Pune,modern,SK006|SK010|SK003|SK016,2022-11-24
+EMP00768,Haley Johnson,12,Senior,Project Manager,Noida,balanced,SK016|SK003|SK001|SK024|SK008|SK022,2013-08-13
+EMP00769,Jason Nixon,2,Junior,Business Analyst,Hubli,balanced,SK018|SK007|SK003,2024-03-13
+EMP00770,Todd Thomas,9,Senior,Technical Lead,Bengaluru,legacy,SK017|SK004|SK023|SK020|SK012,2017-05-23
+EMP00771,Jesse Clark,9,Senior,Senior ML Engineer,Hyderabad,modern,SK002|SK007|SK008|SK012,2016-11-02
+EMP00772,Mr. Jeffrey Horton,15,Senior,Technical Lead,Mysuru,modern,SK001|SK003|SK011|SK012|SK013|SK004,2010-07-25
+EMP00773,Eric Patrick,9,Senior,Technical Lead,Pune,modern,SK010|SK025|SK006|SK012|SK008,2016-10-09
+EMP00774,Samuel Wong,4,Mid,ML Engineer,Mysuru,modern,SK001|SK010|SK018|SK006|SK007,2021-08-19
+EMP00775,Carly Riggs,10,Senior,Solutions Architect,Chennai,balanced,SK007|SK024|SK005|SK017,2016-05-06
+EMP00776,Christopher Moore,7,Senior,Solutions Architect,Chennai,modern,SK004|SK012|SK005|SK008,2018-08-12
+EMP00777,Tina Hall,12,Senior,Project Manager,Hyderabad,legacy,SK025|SK018|SK023|SK009|SK001|SK002,2014-05-27
+EMP00778,Cody Davidson,4,Mid,Senior Software Engineer,Pune,balanced,SK001|SK011|SK019|SK012|SK020,2022-06-04
+EMP00779,Allen Mendez,9,Senior,Solutions Architect,Bengaluru,modern,SK006|SK007|SK002|SK009|SK010,2016-09-25
+EMP00780,Kevin Price,1,Junior,QA Engineer,Mysuru,balanced,SK013|SK006,2024-09-06
+EMP00781,Christine Goodwin,12,Senior,Solutions Architect,Hubli,legacy,SK019|SK020|SK025|SK023,2014-01-07
+EMP00782,Amy Garcia,1,Junior,Business Analyst,Pune,balanced,SK013|SK006|SK007,2025-04-10
+EMP00783,Chelsea Nguyen,9,Senior,Technical Lead,Hyderabad,legacy,SK020|SK021|SK008|SK018|SK005,2017-01-31
+EMP00784,Dennis Huffman,4,Mid,ML Engineer,Hubli,legacy,SK013|SK010|SK018|SK025,2022-04-30
+EMP00785,Margaret Harper,12,Senior,Technical Lead,Bengaluru,balanced,SK003|SK026|SK018|SK008|SK016|SK025,2014-02-09
+EMP00786,Laurie Bailey,15,Senior,Senior ML Engineer,Pune,balanced,SK021|SK018|SK016|SK024,2010-07-25
+EMP00787,Lisa Cervantes,5,Mid,Data Engineer,Noida,modern,SK026|SK007|SK012,2020-08-10
+EMP00788,Elizabeth Mendez,2,Junior,Software Engineer,Noida,balanced,SK002|SK006,2023-08-25
+EMP00789,Cesar Wilson,4,Mid,Systems Analyst,Pune,legacy,SK017|SK001|SK022,2021-10-31
+EMP00790,Clayton Steele,2,Junior,QA Engineer,Bengaluru,balanced,SK020|SK001,2023-08-01
+EMP00791,Jennifer Taylor,6,Mid,Senior Software Engineer,Chennai,balanced,SK021|SK022|SK011|SK025,2019-12-05
+EMP00792,Cody Reid,5,Mid,ML Engineer,Hyderabad,balanced,SK018|SK009|SK006,2020-11-01
+EMP00793,Maria Cooke,9,Senior,Senior ML Engineer,Chennai,legacy,SK024|SK017|SK026|SK003|SK009,2016-11-17
+EMP00794,Katherine Taylor,15,Senior,Senior ML Engineer,Hubli,balanced,SK001|SK025|SK002|SK004|SK015|SK024,2010-06-29
+EMP00795,Jerry Brown,6,Mid,Systems Analyst,Bengaluru,modern,SK009|SK008|SK002|SK012,2020-02-20
+EMP00796,Adam Taylor,8,Senior,Solutions Architect,Noida,modern,SK015|SK009|SK018|SK004|SK010,2017-08-12
+EMP00797,Tracey Wagner,15,Senior,Technical Lead,Chennai,modern,SK010|SK004|SK014|SK015|SK025,2011-04-15
+EMP00798,Michael Perry PhD,4,Mid,Senior Software Engineer,Chennai,legacy,SK020|SK022|SK024|SK015,2021-11-27
+EMP00799,Bradley Johnson DDS,10,Senior,Technical Lead,Noida,legacy,SK025|SK023|SK005|SK019|SK006|SK001,2015-12-26
+EMP00800,Donald Medina,6,Mid,Systems Analyst,Hubli,legacy,SK022|SK006|SK016|SK017|SK023,2019-08-20

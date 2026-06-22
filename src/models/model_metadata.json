@@ -1,0 +1,26 @@
+{
+  "numeric_features": [
+    "utilization_pct",
+    "days_remaining_in_project",
+    "experience_years",
+    "tenure_at_company_days",
+    "historical_bench_count",
+    "historical_bench_days_total",
+    "skill_demand_score"
+  ],
+  "categorical_features": [
+    "experience_band",
+    "skill_profile"
+  ],
+  "experience_band_order": [
+    "Junior",
+    "Mid",
+    "Senior"
+  ],
+  "skill_profile_order": [
+    "legacy",
+    "balanced",
+    "modern"
+  ],
+  "target": "bench_risk_label"
+}

@@ -1,0 +1,801 @@
+employee_id,skill_profile,recommended_skill_1,recommended_skill_1_name,recommended_skill_1_demand_score,recommended_skill_1_category,recommended_skill_2,recommended_skill_2_name,recommended_skill_2_demand_score,recommended_skill_2_category,recommended_skill_3,recommended_skill_3_name,recommended_skill_3_demand_score,recommended_skill_3_category
+EMP00001,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00002,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00003,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00004,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00005,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00006,balanced,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00007,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00008,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00009,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00010,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00011,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00012,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00013,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00014,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00015,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00016,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00017,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00018,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00019,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00020,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00021,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00022,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00023,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00024,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00025,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00026,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00027,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00028,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00029,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00030,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00031,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00032,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00033,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00034,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00035,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00036,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00037,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00038,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00039,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00040,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00041,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00042,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00043,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00044,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00045,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00046,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00047,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00048,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00049,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00050,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00051,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00052,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00053,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00054,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00055,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00056,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00057,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00058,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00059,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00060,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00061,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00062,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00063,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00064,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00065,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00066,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00067,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00068,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00069,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00070,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00071,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00072,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00073,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00074,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00075,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00076,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00077,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00078,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00079,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00080,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00081,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00082,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00083,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00084,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00085,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00086,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00087,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00088,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK007,GCP Data Engineering,78,Cloud
+EMP00089,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00090,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00091,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00092,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00093,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00094,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00095,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00096,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00097,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00098,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00099,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00100,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00101,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00102,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00103,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00104,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00105,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00106,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00107,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00108,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00109,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00110,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00111,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00112,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00113,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00114,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00115,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00116,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00117,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00118,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00119,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00120,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00121,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00122,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00123,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00124,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00125,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00126,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00127,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00128,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00129,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00130,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00131,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00132,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00133,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00134,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00135,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00136,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00137,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00138,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00139,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00140,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00141,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00142,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00143,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00144,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00145,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00146,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00147,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00148,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00149,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00150,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00151,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00152,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00153,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00154,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00155,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00156,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00157,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00158,balanced,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00159,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00160,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00161,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00162,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00163,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00164,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00165,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00166,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00167,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00168,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00169,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00170,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00171,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00172,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00173,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00174,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00175,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00176,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00177,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00178,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00179,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00180,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00181,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00182,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00183,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00184,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00185,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00186,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00187,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00188,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00189,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00190,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00191,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00192,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00193,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00194,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00195,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00196,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00197,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00198,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00199,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00200,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00201,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00202,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00203,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00204,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00205,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00206,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00207,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00208,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00209,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00210,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00211,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00212,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00213,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00214,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00215,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00216,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00217,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00218,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00219,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00220,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00221,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00222,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00223,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00224,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00225,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00226,balanced,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00227,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00228,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00229,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00230,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00231,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00232,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00233,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00234,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00235,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00236,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00237,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00238,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00239,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00240,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00241,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00242,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00243,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00244,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00245,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00246,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00247,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00248,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00249,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00250,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00251,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00252,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00253,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00254,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00255,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00256,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00257,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00258,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00259,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00260,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00261,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00262,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00263,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00264,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00265,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00266,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00267,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00268,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00269,legacy,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00270,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00271,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00272,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00273,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00274,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00275,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00276,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00277,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00278,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00279,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00280,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00281,modern,SK001,LLM Application Development,95,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00282,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00283,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00284,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00285,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00286,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00287,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00288,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00289,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00290,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00291,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00292,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00293,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00294,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00295,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00296,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00297,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00298,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00299,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00300,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00301,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00302,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00303,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00304,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00305,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00306,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00307,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00308,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00309,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00310,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00311,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00312,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00313,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00314,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00315,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00316,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00317,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00318,balanced,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00319,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00320,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00321,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00322,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00323,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00324,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00325,balanced,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00326,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00327,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00328,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00329,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00330,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00331,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00332,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00333,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00334,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00335,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00336,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00337,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00338,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00339,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00340,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00341,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00342,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00343,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00344,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00345,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00346,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00347,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00348,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00349,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00350,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00351,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00352,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00353,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00354,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00355,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00356,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00357,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00358,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00359,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00360,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK007,GCP Data Engineering,78,Cloud
+EMP00361,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00362,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00363,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00364,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00365,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00366,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00367,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00368,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00369,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00370,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00371,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00372,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00373,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00374,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00375,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00376,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00377,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00378,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00379,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00380,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00381,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00382,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00383,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00384,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00385,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00386,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00387,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00388,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00389,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00390,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00391,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00392,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00393,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00394,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00395,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00396,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00397,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00398,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00399,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00400,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00401,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00402,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00403,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00404,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00405,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00406,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00407,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00408,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00409,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00410,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00411,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00412,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00413,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00414,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00415,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00416,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00417,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00418,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00419,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00420,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00421,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00422,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00423,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00424,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00425,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00426,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00427,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00428,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00429,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00430,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00431,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00432,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00433,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00434,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00435,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00436,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00437,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00438,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00439,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00440,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00441,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00442,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00443,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00444,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00445,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00446,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00447,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00448,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00449,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00450,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00451,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00452,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00453,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00454,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00455,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00456,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00457,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00458,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00459,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00460,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00461,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00462,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00463,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00464,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00465,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00466,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00467,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00468,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00469,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00470,modern,SK001,LLM Application Development,95,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud,SK007,GCP Data Engineering,78,Cloud
+EMP00471,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00472,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00473,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00474,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00475,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00476,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00477,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00478,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00479,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00480,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00481,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00482,balanced,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00483,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00484,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00485,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00486,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00487,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00488,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00489,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00490,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00491,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00492,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00493,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00494,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00495,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00496,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00497,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00498,legacy,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00499,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00500,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00501,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00502,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00503,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00504,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00505,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00506,modern,SK001,LLM Application Development,95,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00507,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00508,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00509,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00510,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00511,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00512,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00513,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00514,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00515,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00516,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00517,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00518,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00519,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00520,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00521,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00522,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00523,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00524,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00525,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00526,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00527,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00528,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00529,modern,SK001,LLM Application Development,95,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00530,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00531,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00532,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00533,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00534,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00535,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00536,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00537,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00538,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00539,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00540,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00541,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00542,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00543,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00544,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00545,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00546,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00547,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00548,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00549,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00550,balanced,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00551,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00552,balanced,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00553,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00554,balanced,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00555,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00556,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00557,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00558,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00559,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00560,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00561,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00562,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00563,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00564,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00565,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00566,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00567,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00568,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00569,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00570,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00571,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00572,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00573,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00574,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00575,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00576,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00577,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00578,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00579,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00580,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00581,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00582,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00583,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00584,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00585,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00586,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00587,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00588,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00589,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00590,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00591,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00592,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00593,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00594,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00595,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00596,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00597,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00598,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00599,balanced,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00600,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00601,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00602,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00603,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00604,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00605,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00606,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00607,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00608,modern,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK007,GCP Data Engineering,78,Cloud
+EMP00609,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00610,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00611,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00612,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00613,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00614,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00615,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00616,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00617,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00618,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00619,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00620,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00621,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00622,modern,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00623,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00624,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00625,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00626,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00627,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00628,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00629,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00630,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00631,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00632,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00633,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00634,modern,SK001,LLM Application Development,95,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud,SK007,GCP Data Engineering,78,Cloud
+EMP00635,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00636,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK006,Azure Cloud Administration,80,Cloud
+EMP00637,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00638,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00639,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00640,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00641,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00642,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00643,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00644,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00645,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00646,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00647,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00648,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00649,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00650,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00651,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00652,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00653,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00654,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00655,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00656,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00657,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00658,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00659,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00660,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00661,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00662,balanced,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00663,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00664,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00665,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00666,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00667,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00668,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00669,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00670,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00671,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00672,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00673,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00674,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00675,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00676,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00677,balanced,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00678,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00679,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00680,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00681,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00682,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00683,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00684,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00685,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00686,modern,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00687,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00688,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00689,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00690,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00691,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00692,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00693,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00694,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00695,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00696,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00697,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00698,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00699,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00700,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00701,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK007,GCP Data Engineering,78,Cloud
+EMP00702,balanced,SK001,LLM Application Development,95,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00703,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00704,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00705,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00706,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00707,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00708,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00709,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00710,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00711,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00712,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00713,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00714,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00715,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00716,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00717,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00718,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00719,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00720,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00721,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00722,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00723,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00724,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00725,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00726,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00727,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00728,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00729,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00730,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00731,modern,SK001,LLM Application Development,95,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK007,GCP Data Engineering,78,Cloud
+EMP00732,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00733,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00734,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00735,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00736,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00737,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00738,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00739,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00740,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00741,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00742,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00743,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00744,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00745,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00746,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00747,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00748,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00749,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00750,modern,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00751,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00752,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00753,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00754,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00755,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00756,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00757,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00758,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00759,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00760,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00761,modern,SK001,LLM Application Development,95,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00762,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00763,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00764,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00765,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00766,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00767,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00768,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00769,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00770,legacy,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00771,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00772,modern,SK002,Prompt Engineering,88,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00773,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00774,modern,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00775,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00776,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00777,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud
+EMP00778,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00779,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00780,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00781,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00782,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00783,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00784,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00785,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00786,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00787,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00788,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00789,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00790,balanced,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00791,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00792,balanced,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00793,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00794,balanced,SK003,MLOps,90,AI/GenAI,SK005,AWS Cloud Architecture,85,Cloud,SK006,Azure Cloud Administration,80,Cloud
+EMP00795,modern,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00796,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00797,modern,SK001,LLM Application Development,95,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00798,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI
+EMP00799,legacy,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI,SK002,Prompt Engineering,88,AI/GenAI
+EMP00800,legacy,SK001,LLM Application Development,95,AI/GenAI,SK004,Generative AI Solutions,93,AI/GenAI,SK003,MLOps,90,AI/GenAI

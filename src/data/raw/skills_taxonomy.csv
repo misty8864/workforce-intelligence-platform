@@ -1,0 +1,27 @@
+skill_id,skill_name,category,demand_score
+SK001,LLM Application Development,AI/GenAI,95
+SK002,Prompt Engineering,AI/GenAI,88
+SK003,MLOps,AI/GenAI,90
+SK004,Generative AI Solutions,AI/GenAI,93
+SK005,AWS Cloud Architecture,Cloud,85
+SK006,Azure Cloud Administration,Cloud,80
+SK007,GCP Data Engineering,Cloud,78
+SK008,Cloud Infrastructure Management,Cloud,75
+SK009,Data Engineering (Spark),Data,72
+SK010,SQL & Data Warehousing,Data,65
+SK011,Data Science & Analytics,Data,70
+SK012,Power BI / Tableau,Data,60
+SK013,Python Development,Core Programming,68
+SK014,Java / Spring Boot,Core Programming,62
+SK015,.NET Development,Core Programming,55
+SK016,JavaScript / React,Core Programming,60
+SK017,SAP ERP,Legacy/ERP,30
+SK018,Mainframe / COBOL,Legacy/ERP,18
+SK019,Oracle ERP,Legacy/ERP,28
+SK020,Legacy Systems Maintenance,Legacy/ERP,22
+SK021,Banking Domain Expertise,Domain,50
+SK022,Insurance Domain Expertise,Domain,45
+SK023,Healthcare Domain Expertise,Domain,48
+SK024,Business Analysis,Functional,52
+SK025,Project Management,Functional,50
+SK026,QA & Test Automation,Functional,47
